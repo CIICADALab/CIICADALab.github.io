@@ -5,7 +5,51 @@ defaultAppearance = "dark"
 
 homepage.layout = "page"
 
-autoSwitchAppearance = "false"
+autoSwitchAppearance = false
 
 logo = "img/ciicada_logo.png"
 
+enableSearch = true
+enableCodeCopy = true
+
+mainSections = ["seminars", "news", "people"]
+
+[footer]
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+
+[article]
+  showDate = true
+  showViews = true
+  showDateUpdated = false
+  showAuthor = true
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showEdit = false
+ # editURL = "https://github.com/nunocoracao/blowfish/tree/main/exampleSite/content"
+  editAppendPath = true
+  showHeadingAnchors = true
+  showPagination = true
+  invertPagination = false
+  showReadingTime = true
+  showTableOfContents = true
+  showTaxonomies = false 
+  showWordCount = true
+  showSummary = true
+  sharingLinks = [ "linkedin", "twitter", "email"]
+  
+  
+  [list]
+  showBreadcrumbs = false
+ # showSummary = true
+  showTableOfContents = false
+#  groupByYear = false
+
+[sitemap]
+  excludedKinds = []
+
+[taxonomy]
+  showTermCount = true

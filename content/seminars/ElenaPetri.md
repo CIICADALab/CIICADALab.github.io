@@ -1,6 +1,6 @@
 ---
-title: "Elena Petri's Talk on Hybrid techniques for state estimation: event-triggered observer design and observer performance improvement (21 October, 2022)"
-date: 2022-09-28T11:39:26+10:00
+title: "Elena Petri's Talk on Hybrid techniques for state estimation: event-triggered observer design and observer performance improvement"
+date: 2022-10-21T11:00:00+10:00
 draft: false
 ---
 

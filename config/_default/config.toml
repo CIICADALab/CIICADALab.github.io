@@ -1,5 +1,5 @@
 
-baseURL = "https://ciicadalab.github.io/" 
+baseURL = "https://CIICADALab.github.io/" 
 languageCode = "en"
 
 enableRobotsTXT = true
@@ -7,7 +7,8 @@ paginate = 20
 summaryLength = 30
 
 buildDrafts = false
-buildFuture = false
+buildFuture = true
+buildExpired = true
 
 # googleAnalytics = "G-XXXXXXXXX"
 

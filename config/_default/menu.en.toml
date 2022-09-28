@@ -17,8 +17,12 @@
 [[main]]
   name = "Seminars"
   pageRef = "seminars"
-  weight = 20
+  weight = 5
 
+[[main]]
+  name = "People"
+  pageRef = "people"
+  weight = 20
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

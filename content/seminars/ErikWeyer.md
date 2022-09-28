@@ -1,6 +1,6 @@
 ---
-title: "Erik Weyer's Talk on State conditional filtering (11 November, 2022)"
-date: 2022-09-28T11:42:30+10:00
+title: "Erik Weyer's Talk on State conditional filtering"
+date: 2022-11-11T11:00:00+10:00
 draft: false
 ---
 
