@@ -1,5 +1,5 @@
 
-baseURL = "https://CIICADALab.github.io/"
+baseURL = "https://ciicadalab.github.io/" 
 languageCode = "en"
 
 enableRobotsTXT = true
