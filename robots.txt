@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://CIICADALab.github.io/sitemap.xml
+Sitemap: https://ciicadalab.github.io/sitemap.xml
