@@ -1,0 +1,11 @@
+
+colorScheme = "blowfish"
+
+defaultAppearance = "dark"
+
+homepage.layout = "page"
+
+autoSwitchAppearance = "false"
+
+logo = "img/ciicada_logo.png"
+

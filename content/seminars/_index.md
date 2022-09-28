@@ -1,0 +1,1 @@
+The details for our seminars and talks presented by members of CIICADA Lab and Mechatronics cluster as well as our visitors and guests can be found below. All talks are co-sponsored by the ACT IEEE Control Systems Chapter. 
