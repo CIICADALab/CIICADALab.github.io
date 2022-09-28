@@ -19,4 +19,19 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 
 
 
-The Lab members are listed below.
+## Faculty Members
+
+- Philipp Braun
+- Robert Mahony
+- Tim Molloy
+- Ian R. Petersen
+- Elizabeth Ratnam
+- Iman Shames
+
+## Postdoctoral and Research Fellows
+
+- Pieter van Goor
+
+## PhD, Masters, and Undergraduate Students
+
+- Yitian Chen
