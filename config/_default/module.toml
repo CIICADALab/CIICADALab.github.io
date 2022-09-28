@@ -1,3 +1,5 @@
-[[imports]]
-path = "github.com/nunocoracao/blowfish"
-
+# [[imports]]
+# path = "github.com/nunocoracao/blowfish"
+[hugoVersion]
+  extended = false
+  min = "0.87.0"
