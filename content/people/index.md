@@ -35,3 +35,7 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 ## PhD, Masters, and Undergraduate Students
 
 - Yitian Chen
+
+## Visitors, Adjuncts, and Emeriti
+
+- Kasra Khosoussi

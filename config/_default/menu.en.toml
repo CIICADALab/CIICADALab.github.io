@@ -23,6 +23,12 @@
   name = "People"
   pageRef = "people"
   weight = 20
+  
+  
+[[main]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 20
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
@@ -34,7 +40,3 @@
    pageRef = "tags"
    weight = 10
 
- [[footer]]
-   name = "Categories"
-   pageRef = "categories"
-   weight = 20

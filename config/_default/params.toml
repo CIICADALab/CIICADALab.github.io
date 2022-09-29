@@ -1,5 +1,5 @@
 
-colorScheme = "Fire"
+colorScheme = "fire"
 
 defaultAppearance = "light"
 
@@ -23,7 +23,7 @@ mainSections = ["seminars", "news", "people"]
 
 [article]
   showDate = true
-  showViews = true
+  showViews = false
   showDateUpdated = false
   showAuthor = true
   showBreadcrumbs = true
