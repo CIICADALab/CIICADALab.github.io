@@ -5,7 +5,7 @@ description: "News, seminars, and other information"
 
 
 ___CIICADA (Control, Information, Intelligence, Communications, Automation, Decision, and Autonomy) Lab___
-is an inter-cluster research lab committed to advancing research and education in control, information, decision, and autonomy sciences.
+is an inter-cluster research lab committed to advancing research and education in control, information, decision, and autonomy sciences located at the [School of Engineering](https://eng.anu.edu.au/), The Australian National University.
 Of particular interest are the areas of _optimisation and game theory and its applications; systems and control theory; autonomy; quantum systems; and complex networks (including networks of dynamical systems, communications networks, and social networks)_.
 CIICADA Lab is at the forefront of major methodological developments in a wide range of fields,
 including: _robotics, telecommunications, information technology, energy, and defence_.
@@ -22,3 +22,19 @@ Affiliated Labs and Groups:
 
 - STR Lab
 - Power Systems and Optimisation Lab
+
+{{< alert "lightbulb" >}}
+We actively seek collaborators from across academia, industry, and government to work on interesting, challenging, and impactful problems in the broad areas listed above.
+{{< /alert >}}
+
+</br>
+
+
+
+{{< alert "circle-info" >}}
+We run an ever-green, and competitive, process for providing support for vising researchers in different career stages from academia and industry. Please get in touch if interested.
+{{< /alert >}}
+</br>
+{{< button href="mailto:iman.shames@anu.edu.au" target="_self" >}}
+ Contact us if interested!
+{{< /button >}}
