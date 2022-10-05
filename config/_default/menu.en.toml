@@ -33,7 +33,7 @@
  [[main]]
   name = "Demonstrators"
   pageRef = "demonstrators"
-  weight = 20
+  weight = 50
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
