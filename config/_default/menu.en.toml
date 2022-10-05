@@ -26,8 +26,13 @@
   
   
 [[main]]
-  name = "Projects"
-  pageRef = "projects"
+  name = "Research"
+  pageRef = "research"
+  weight = 20
+  
+ [[main]]
+  name = "Demonstrators"
+  pageRef = "demonstrators"
   weight = 20
 
 # -- Footer Menu --

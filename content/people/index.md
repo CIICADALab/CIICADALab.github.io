@@ -30,15 +30,19 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 - Ian R. Petersen
 - Elizabeth Ratnam <kbd> Power Systems and Optimisation Lab </kbd>
 - Iman Shames
+- Nan Yang
 
 ## Postdoctoral and Research Fellows
 
 - Abhishek Bhardwaj <kbd> Power Systems and Optimisation Lab </kbd>
 - Pieter van Goor <kbd> STR Lab </kbd>
-- Yuen Man (Mandy) Pun
 - Nanduni Nimalsiri <kbd> Power Systems and Optimisation Lab </kbd>
+- Yuen Man (Mandy) Pun
 
-## PhD Masters and Undergraduate Students
+
+## PhD, Masters, Honours and Undergraduate Students
+
+### PhD and Masters Students
 
 - Yitian Chen
 - Shawn Ge <kbd> STR Lab </kbd>
@@ -46,7 +50,14 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 - Norak Rin <kbd> Power Systems and Optimisation Lab </kbd>
 - Zeinab Salehi <kbd> Power Systems and Optimisation Lab </kbd>
 
-## Visitors Adjuncts and Emeriti
+### Honours and Undergraduate Students
+
+
+## Visitors and Adjuncts
+
+- Kasra Khosoussi <kbd> CSIRO </kbd>
+
+## Alumni and Emeriti
 
 - Brian D. O. Anderson
-- Kasra Khosoussi <kbd> CSIRO </kbd>
+- Matthew R. James
