@@ -7,12 +7,12 @@
 
 colorScheme = "blowfish"
 defaultAppearance = "dark" # valid options: light or dark
-autoSwitchAppearance = false
+autoSwitchAppearance = true
 
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["docs", "samples"]
+mainSections = ["docs"]
 # robots = ""
 
 [footer]
@@ -23,14 +23,15 @@ mainSections = ["docs", "samples"]
 
 [homepage]
   layout = "custom" # valid options: page, profile, custom
-  showRecent = false
+  showRecent = true
   showRecentItems = 5
-  showMoreLink = false
+  showMoreLink = true
   showMoreLinkDest = "/docs"
  
 [article]
-  showDate = true
+  showDate = false
   showViews = true
+  showLikes = true
   showDateUpdated = false
   showAuthor = true
   showBreadcrumbs = true
@@ -43,8 +44,8 @@ mainSections = ["docs", "samples"]
   invertPagination = false
   showReadingTime = true
   showTableOfContents = true
-  showTaxonomies = false 
-  showWordCount = true
+  showTaxonomies = true 
+  showWordCount = false
   showSummary = true
   sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"]
 
@@ -52,6 +53,7 @@ mainSections = ["docs", "samples"]
   showBreadcrumbs = false
   showSummary = true
   showTableOfContents = false
+  showCards = true
   groupByYear = false
 
 [sitemap]

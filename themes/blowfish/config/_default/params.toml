@@ -31,6 +31,7 @@ enableCodeCopy = true
 [article]
   showDate = true
   #showViews = true
+  #showLikes = true
   showDateUpdated = false
   showAuthor = true
   showBreadcrumbs = true
@@ -52,6 +53,7 @@ enableCodeCopy = true
   showBreadcrumbs = false
   showSummary = false
   showTableOfContents = false
+  showCards = false
   groupByYear = true
 
 [sitemap]

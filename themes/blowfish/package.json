@@ -1,13 +1,14 @@
 {
   "name": "hugo-blowfish-theme",
-  "version": "1.1.1",
+  "version": "1.5.0",
   "description": "Blowfish theme for Hugo",
   "scripts": {
     "preinstall": "rimraf assets/vendor",
     "postinstall": "vendor-copy",
     "assets": "rimraf assets/vendor && vendor-copy",
     "dev": "NODE_ENV=development ./node_modules/tailwindcss/lib/cli.js -i ./assets/css/main.css -o ./assets/css/compiled/main.css --jit -w",
-    "build": "NODE_ENV=production ./node_modules/tailwindcss/lib/cli.js -i ./assets/css/main.css -o ./assets/css/compiled/main.css --jit && hugo --minify -s exampleSite --themesDir ../.. -d ../docs --baseURL https://nunocoracao.github.io/blowfish/",
+    "build": "NODE_ENV=production ./node_modules/tailwindcss/lib/cli.js -i ./assets/css/main.css -o ./assets/css/compiled/main.css --jit", 
+    "build-hugo": "hugo --minify -s exampleSite --themesDir ../.. -d ../docs --baseURL https://nunocoracao.github.io/blowfish/",
     "example": "hugo server --minify --source exampleSite --themesDir ../.. --buildDrafts -b http://localhost/ -p 1313",
     "lighthouse": "lhci autorun"
   },
@@ -21,7 +22,11 @@
     "tailwind",
     "dark-mode"
   ],
-  "author": "Nuno Coracao",
+  "author": {
+    "name": "Nuno Coração",
+    "github": "https://github.com/nunocoracao",
+    "url": "https://nunocoracao.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nunocoracao/blowfish/issues"
@@ -32,7 +37,7 @@
     "chart.js": "^3.9.1",
     "fuse.js": "^6.6.2",
     "katex": "^0.16.0",
-    "mermaid": "^9.1.6",
+    "mermaid": "^9.1.7",
     "prettier": "^2.7.1",
     "prettier-plugin-go-template": "^0.0.13",
     "prettier-plugin-tailwindcss": "^0.1.13",
@@ -74,6 +79,7 @@
   "dependencies": {
     "@headlessui/react": "^1.7.0",
     "@heroicons/react": "^2.0.10",
-    "@tailwindcss/forms": "^0.5.3"
+    "@tailwindcss/forms": "^0.5.3",
+    "commander": "^9.4.0"
   }
 }
