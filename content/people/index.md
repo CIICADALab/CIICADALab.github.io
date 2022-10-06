@@ -25,6 +25,7 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 ## Faculty Members
 
 - Philipp Braun
+- Christopher Kellett
 - Robert Mahony <kbd> STR Lab </kbd>
 - Tim Molloy
 - Ian R. Petersen
@@ -32,13 +33,19 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 - Iman Shames
 - Nan Yang
 
-## Postdoctoral and Research Fellows
+## Researchers
+
+### Postdoctoral and Research Fellows
 
 - Abhishek Bhardwaj <kbd> Power Systems and Optimisation Lab </kbd>
 - Pieter van Goor <kbd> STR Lab </kbd>
 - Nanduni Nimalsiri <kbd> Power Systems and Optimisation Lab </kbd>
 - Yuen Man (Mandy) Pun
 
+### Research Assistants
+
+- Oliver Biggar
+- Rebecca Craine
 
 ## PhD, Masters, Honours and Undergraduate Students
 
@@ -51,6 +58,11 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 - Zeinab Salehi <kbd> Power Systems and Optimisation Lab </kbd>
 
 ### Honours and Undergraduate Students
+
+- Angus Apps
+- Adhitya Bidarkal
+- Olivia Dry
+
 
 
 ## Visitors and Adjuncts
