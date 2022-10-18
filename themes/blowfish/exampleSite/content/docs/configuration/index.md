@@ -5,6 +5,8 @@ draft: false
 description: "All the configuration variables available in Blowfish."
 slug: "configuration"
 tags: ["config", "docs"]
+series: ["Documentation"]
+series_order: 4
 ---
 
 Blowfish is a highly customisable theme and uses some of the latest Hugo features to simplify how it is configured.
@@ -68,9 +70,11 @@ The theme currently supports the following languages by default:
 | :jp: Japanese                          | `ja`    |
 | :brazil: Portuguese (Brazil)           | `pt-br` |
 | :portugal: Portuguese (Portugal)       | `pt-pt` |
+| :poland: Polish                        | `pl`    |
 | :romania: Romanian                     | `ro`    |
 | :es: Spanish (Spain)                   | `es`    |
 | :tr: Turkish                           | `tr`    |
+| 🇭🇷 Hrvatski                           | `hr`    |
 
 The default translations can be overridden by creating a custom file in `i18n/[code].yaml` that contains the translation strings. You can also use this method to add new languages. If you'd like to share a new translation with the community, please [open a pull request](https://github.com/nunocoracao/blowfish/pulls).
 
@@ -129,12 +133,12 @@ Many of the article defaults here can be overridden on a per article basis by sp
 |`logo`|_Not set_|The relative path to the site logo file within the `assets/` folder. The logo file should be provided at 2x resolution and supports any image dimensions.|
 |`mainSections`|_Not set_|The sections that should be displayed in the recent articles list. If not provided the section with the greatest number of articles is used.|
 |`robots`|_Not set_|String that indicates how robots should handle your site. If set, it will be output in the page head. Refer to [Google's docs](https://developers.google.com/search/docs/advanced/robots/robots_meta_tag#directives) for valid values.|
-|`header.layout`|`"basic"`|The layout of the page header and menu. Valid values are `basic`, `hamburger` or `custom`. When set to `custom`, you must provide your own layout by creating a `/layouts/partials/header/custom.html` file.|
 |`footer.showCopyright`|`true`|Whether or not to show the copyright string in the site footer. Note that the string itself can be customised using the `copyright` parameter in the [languages configuration](#language-and-i18n).|
 |`footer.showThemeAttribution`|`true`|Whether or not to show the "powered by" theme attribution in the site footer. If you choose to disable this message, please consider attributing the theme somewhere else on your site (for example, on your about page).|
 |`footer.showAppearanceSwitcher`|`false`|Whether or not to show the appearance switcher in the site footer. The browser's local storage is used to persist the visitor's preference.|
 |`footer.showScrollToTop`|`true`|When set to `true` the scroll to top arrow is displayed.|
-|`homepage.layout`|`"page"`|The layout of the homepage. Valid values are `page`, `profile` or `custom`. When set to `custom`, you must provide your own layout by creating a `/layouts/partials/home/custom.html` file. Refer to the [Homepage Layout]({{< ref "homepage-layout" >}}) section for more details.|
+|`homepage.layout`|`"profile"`|The layout of the homepage. Valid values are `page`, `profile`, `hero`, `card`, `background`, or `custom`. When set to `custom`, you must provide your own layout by creating a `/layouts/partials/home/custom.html` file. Refer to the [Homepage Layout]({{< ref "homepage-layout" >}}) section for more details.|
+|`homepage.homepageImage`|_Not set_|Image to be used in `hero` and `card` layouts. Refer to the [Homepage Layout]({{< ref "homepage-layout" >}}) section for more details.|
 |`homepage.showRecent`|`false`|Whether or not to display the recent articles list on the homepage.|
 |`homepage.showRecentItems`|5|How many articles to display if showRecent is true. If variable is set to 0 or if it isn't defined the system will default to 5 articles.|
 |`homepage.showMoreLink`|'false'|Wether or not to display a show more link at the end of your posts that takes the user to a predefined place.|
@@ -144,17 +148,21 @@ Many of the article defaults here can be overridden on a per article basis by sp
 |`article.showLikes`|`false`|Whether or not article likes are displayed. This requires firebase integrations to be enabled, look below.|
 |`article.showDateUpdated`|`false`|Whether or not the dates articles were updated are displayed.|
 |`article.showAuthor`|`true`|Whether or not the author box is displayed in the article footer.|
+|`article.showHero`|`true`|Whether the thumbnail image will be shown as a hero image within each article page.|
+|`heroStyle`|`basic`|Style to display the hero image, valid options are: `basic`, `big`, `background`.|
 |`article.showBreadcrumbs`|`false`|Whether or not breadcrumbs are displayed in the article header.|
 |`article.showDraftLabel`|`true`|Whether or not the draft indicator is shown next to articles when site is built with `--buildDrafts`.|
 |`article.showEdit`|`false`|Whether or not the link to edit the article content should be displayed.|
 |`article.editURL`|_Not set_|When `article.showEdit` is active, the URL for the edit link.|
 |`article.editAppendPath`|`true`|When `article.showEdit` is active, whether or not the path to the current article should be appended to the URL set at `article.editURL`.|
+|`article.seriesOpened`|`false`|Whether or not the series module will be displayed open by default or not.|
 |`article.showHeadingAnchors`|`true`|Whether or not heading anchor links are displayed alongside headings within articles.|
 |`article.showPagination`|`true`|Whether or not the next/previous article links are displayed in the article footer.|
 |`article.invertPagination`|`false`|Whether or not to flip the direction of the next/previous article links.|
 |`article.showReadingTime`|`true`|Whether or not article reading times are displayed.|
 |`article.showTableOfContents`|`false`|Whether or not the table of contents is displayed on articles.|
 |`article.showTaxonomies`|`false`|Whether or not the taxonomies related to this article are displayed.|
+|`article.showAuthorsBadges`|`false`|Whether the `authors` taxonomies are are displayed in the article or list header. This requires the setup of `multiple authors` and the `authors` taxonomy. Check [this page]({{< ref "multi-author" >}}) for more details on how to configure that feature.|
 |`article.showWordCount`|`false`|Whether or not article word counts are displayed.|
 |`article.showComments`|`false`|Whether or not the [comments partial]({{< ref "partials#comments" >}}) is included after the article footer.|
 |`article.sharingLinks`|_Not set_|Which sharing links to display at the end of each article. When not provided, or set to `false` no links will be displayed.|

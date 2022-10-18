@@ -15,8 +15,14 @@ buildFuture = false
 
 googleAnalytics = "G-PEDMYR1V0K"
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
+  series = "series"
+
 [sitemap]
-  changefreq = 'daily'
+  changefreq = 'always'
   filename = 'sitemap.xml'
   priority = 0.5
 

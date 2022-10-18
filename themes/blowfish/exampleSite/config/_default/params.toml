@@ -22,29 +22,34 @@ mainSections = ["docs"]
   showScrollToTop = true
 
 [homepage]
-  layout = "custom" # valid options: page, profile, custom
+  layout = "custom" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "iceland.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
   showMoreLink = true
-  showMoreLinkDest = "/docs"
- 
+  showMoreLinkDest = "docs"
+
 [article]
   showDate = false
   showViews = true
   showLikes = true
   showDateUpdated = false
   showAuthor = true
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = true
   editURL = "https://github.com/nunocoracao/blowfish/tree/main/exampleSite/content"
   editAppendPath = true
+  seriesOpened = false
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
   showReadingTime = true
   showTableOfContents = true
   showTaxonomies = true 
+  showAuthorsBadges = true 
   showWordCount = false
   showSummary = true
   sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"]
@@ -57,7 +62,7 @@ mainSections = ["docs"]
   groupByYear = false
 
 [sitemap]
-  excludedKinds = []
+  excludedKinds = ["taxonomy","term"]
 
 [taxonomy]
   showTermCount = true
