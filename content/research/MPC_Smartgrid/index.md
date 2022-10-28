@@ -14,7 +14,7 @@ showReadingTime: false
 showTableOfContents: true
 showWordCount: false
 showSummary: false
-showHero: false
+# showHero: false
 sharingLinks: [ "linkedin", "twitter", "email"]
 ---
 
@@ -23,7 +23,7 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 In this research stream we investigate distributed optimisation schemes embedded in model predictive control algorithms to mitigate these difficulties. In particular, we investigate the potential degree of freedom of small-scale distributed storage devices (such as batteries) and flexible loads in the grid. The corresponding control laws, scheduling the charging and discharging behaviour of the storage devices and the controllable loads, are within the area of demand-side management.
 {{< /lead >}}
 
-![](featured.png)
+<!-- ![](featured.png) -->
 
 ## Main investigators
 

@@ -40,6 +40,7 @@ mainSections = ["seminars", "news", "people"]
   showWordCount = true
   showSummary = true
   sharingLinks = [ "linkedin", "twitter", "email"]
+  heroStyle = 'background'
   
   
   [list]
