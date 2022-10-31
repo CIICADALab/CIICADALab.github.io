@@ -21,7 +21,8 @@
   </header>
   <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">
     {{ if and (.Params.showTableOfContents | default (.Site.Params.article.showTableOfContents | default false)) (in
-    .TableOfContents "<ul") }} <div class="order-first px-0 lg:order-last lg:max-w-xs ltr:lg:pl-8 rtl:lg:pr-8">
+    .TableOfContents "<ul") }} 
+    <div class="order-first sm:max-w-prose lg:ml-auto px-0 lg:order-last lg:max-w-xs ltr:lg:pl-8 rtl:lg:pr-8">
       <div class="toc ltr:pl-5 rtl:pr-5 print:hidden lg:sticky lg:top-10">
         {{ partial "toc.html" . }}
       </div>
@@ -30,6 +31,8 @@
       <div class="min-w-0 min-h-0 max-w-prose">
         {{ partial "series.html" . }}
         {{ .Content | emojify }}
+        </br></br>
+        {{ partial "series-closed.html" . }}
       </div>
       <script>
 
@@ -165,6 +168,11 @@
     {{ $authorsData := .Site.Data.authors }}
     {{ $taxonomies := .Site.Taxonomies.authors }}
     {{ $baseURL := .Site.BaseURL }}
+
+    {{ if not (strings.HasSuffix $baseURL "/") }}
+      {{ $baseURL = delimit (slice $baseURL "/") "" }}
+    {{ end }}
+
     {{ range $author := .Page.Params.authors }}
     {{ $authorData := index $authorsData $author }}
     {{- if $authorData -}}
@@ -172,7 +180,7 @@
     {{ $taxonomyLink := 0 }}
     {{ range $taxonomyname, $taxonomy := $taxonomies }}
     {{ if (eq $taxonomyname $author) }}
-    {{ $taxonomyLink = delimit (slice $baseURL "authors/" $author) "" }}
+    {{ $taxonomyLink = delimit (slice $baseURL "/authors/" $author) "" }}
     {{ end }}
     {{ end }}
 

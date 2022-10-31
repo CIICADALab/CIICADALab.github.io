@@ -16,6 +16,7 @@ mainSections = ["docs"]
 # robots = ""
 
 [footer]
+  showMenu = true
   showCopyright = true
   showThemeAttribution = true
   showAppearanceSwitcher = true
@@ -23,7 +24,7 @@ mainSections = ["docs"]
 
 [homepage]
   layout = "custom" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "iceland.jpg" # used in: hero, and card
+  homepageImage = "/img/iceland.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
   showMoreLink = true
@@ -57,7 +58,7 @@ mainSections = ["docs"]
 [list]
   showBreadcrumbs = false
   showSummary = true
-  showTableOfContents = false
+  showTableOfContents = true
   showCards = true
   groupByYear = false
 
