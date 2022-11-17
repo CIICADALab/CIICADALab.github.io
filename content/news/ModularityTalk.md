@@ -11,6 +11,6 @@ Oliver gave a talk in the seminar series _on behavior trees in robotics_ entitle
 
 For more details you can check out this publication:
 
-On modularity in reactive control architectures, with an application to formal verification [{{< icon "download" >}}](https://arxiv.org/pdf/2008.12515.pdf) </br>
-O Biggar, M Zamani, I Shames
+_On modularity in reactive control architectures, with an application to formal verification_ [{{< icon "download" >}}](https://arxiv.org/pdf/2008.12515.pdf) </br>
+O Biggar, M Zamani, I Shames  </br>
 ACM Transactions on Cyber-Physical Systems (TCPS) 6 (2), 1-36
