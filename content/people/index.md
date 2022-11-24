@@ -35,6 +35,10 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 
 ## Researchers
 
+### Senior Research Fellows
+
+- Igor Vladimirov
+
 ### Postdoctoral and Research Fellows
 
 - Abhishek Bhardwaj <kbd> Power Systems and Optimisation Lab </kbd>
@@ -49,13 +53,21 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 
 ## PhD, Masters, Honours and Undergraduate Students
 
-### PhD and Masters Students
+### PhD, MPhil, and Masters Students
 
+- Rudra Bhattacharya
 - Yitian Chen
 - Shawn Ge <kbd> STR Lab </kbd>
 - Matthew Hampsey <kbd> STR Lab </kbd>
+- Yun-Yan Lee
 - Norak Rin <kbd> Power Systems and Optimisation Lab </kbd>
+- Kanghong Shi
 - Zeinab Salehi <kbd> Power Systems and Optimisation Lab </kbd>
+- Rebbecca Thien
+- Alex Wu
+
+
+
 
 ### Honours and Undergraduate Students
 
@@ -68,6 +80,7 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 ## Visitors and Adjuncts
 
 - Kasra Khosoussi <kbd> CSIRO </kbd>
+- Valeri Ougrinovski <kbd> UNSW@Canberra </kbd>
 
 ## Alumni and Emeriti
 
