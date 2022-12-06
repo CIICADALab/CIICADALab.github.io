@@ -30,7 +30,7 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 - Tim Molloy
 - Ian R. Petersen
 - Elizabeth Ratnam <kbd> Power Systems and Optimisation Lab </kbd>
-- Iman Shames
+- [Iman Shames](https://imanshames.blog)
 - Nan Yang
 
 ## Researchers
@@ -61,8 +61,8 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 - Matthew Hampsey <kbd> STR Lab </kbd>
 - Yun-Yan Lee
 - Norak Rin <kbd> Power Systems and Optimisation Lab </kbd>
-- Kanghong Shi
 - Zeinab Salehi <kbd> Power Systems and Optimisation Lab </kbd>
+- Kanghong Shi
 - Rebbecca Thien
 - Alex Wu
 
