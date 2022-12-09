@@ -15,6 +15,9 @@ enableCodeCopy = true
 # mainSections = ["section1", "section2"]
 # robots = ""
 
+[header]
+  layout = "basic" # valid options: basic, fixed
+
 [footer]
  # showMenu = true
   showCopyright = true
@@ -29,6 +32,9 @@ enableCodeCopy = true
   showRecentItems = 5
   showMoreLink = false
   showMoreLinkDest = "/posts"
+  cardView = false
+  cardViewScreenWidth = false
+  layoutBackgroundBlur = false # only used when layout equals background
 
 [article]
   showDate = true
@@ -37,7 +43,9 @@ enableCodeCopy = true
   showDateUpdated = false
   showAuthor = true
   showHero = true
-  heroStyle = "basic" # valid options: basic, big, background
+  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = false # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = true
@@ -56,11 +64,19 @@ enableCodeCopy = true
   sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"]
 
 [list]
+  #showHero = true
+  #heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  #layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
+  #layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
   showSummary = false
+  #showViews = true
+  #showLikes = true
   showTableOfContents = false
   showCards = false
   groupByYear = true
+  cardView = false
+  cardViewScreenWidth = false
 
 [sitemap]
   excludedKinds = []
@@ -80,6 +96,13 @@ enableCodeCopy = true
 [fathomAnalytics]
   # site = "ABC12345"
   # domain = "llama.yoursite.com"
+
+[buymeacoffee]
+  # identifier = ""
+  # globalWidget = true
+  # globalWidgetMessage = "Hello"
+  # globalWidgetColor = "#FFDD00"
+  # globalWidgetPosition = "Right"
 
 [verification]
   # google = ""

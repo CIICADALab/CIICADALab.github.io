@@ -15,6 +15,9 @@ enableCodeCopy = true
 mainSections = ["docs"]
 # robots = ""
 
+[header]
+  layout = "fixed" # valid options: basic, fixed
+
 [footer]
   showMenu = true
   showCopyright = true
@@ -25,10 +28,13 @@ mainSections = ["docs"]
 [homepage]
   layout = "custom" # valid options: page, profile, hero, card, background, custom
   homepageImage = "/img/iceland.jpg" # used in: hero, and card
-  showRecent = true
-  showRecentItems = 5
+  showRecent = false
+  showRecentItems = 10
   showMoreLink = true
   showMoreLinkDest = "docs"
+  cardView = true
+  cardViewScreenWidth = false
+  layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
   showDate = false
@@ -37,7 +43,8 @@ mainSections = ["docs"]
   showDateUpdated = false
   showAuthor = true
   showHero = true
-  heroStyle = "background" # valid options: basic, big, background
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = true # only used when heroStyle equals background
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = true
@@ -56,11 +63,19 @@ mainSections = ["docs"]
   sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"]
 
 [list]
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = true # only used when heroStyle equals background
+  layoutBackgroundHeaderSpace = false
   showBreadcrumbs = false
-  showSummary = true
+  showSummary = false
+  showViews = true
+  showLikes = true
   showTableOfContents = true
   showCards = true
   groupByYear = false
+  cardView = true
+  cardViewScreenWidth = false
 
 [sitemap]
   excludedKinds = ["taxonomy","term"]
@@ -80,6 +95,13 @@ mainSections = ["docs"]
 [fathomAnalytics]
   # site = "ABC12345"
   # domain = "llama.yoursite.com"
+
+[buymeacoffee]
+  identifier = "nunocoracao"
+  globalWidget = true
+  globalWidgetMessage = ""
+  globalWidgetColor = "#FFDD00"
+  globalWidgetPosition = "Right"
 
 [verification]
   # google = ""

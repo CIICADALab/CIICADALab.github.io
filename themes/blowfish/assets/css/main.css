@@ -1,4 +1,4 @@
-/*! Blowfish v0.0.1 | MIT License | https://github.com/nunocoracao/blowfish */
+/*! Blowfish | MIT License | https://github.com/nunocoracao/blowfish */
 
 @tailwind base;
 @tailwind components;
@@ -347,6 +347,13 @@ body:has(#menu-controller:checked) {
   background-position:center;
 }
 
+.thumbnail_card {
+  height: 250px;
+  background-repeat:no-repeat;
+  background-size:cover; 
+  background-position:center;
+}
+
 .single_hero_basic {
   background-repeat:no-repeat;
   background-size:cover; 
@@ -374,6 +381,14 @@ body:has(#menu-controller:checked) {
 
 .thumbnailshadow {
   box-shadow: 5px 5px 20px 1px rgba(0, 0, 0, 0.3);
+}
+
+.anchor {
+  display: block;
+  position: relative;
+  top: -100px;
+  height: 0px;
+  visibility: hidden;
 }
 
 @screen sm {
