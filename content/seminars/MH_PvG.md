@@ -1,6 +1,6 @@
 ---
 title: "Pieter van Goor's Talk on Constructive Equivariant Observer Design for Inertial Velocity-Aided Attitude and Matthew Hampsey's Talk on Exploiting Symmetries for Trajectory Tracking Control"
-date: 2022-12-29T11:00:00+10:00
+date: 2022-12-09T11:00:00+10:00
 draft: false
 ---
 
