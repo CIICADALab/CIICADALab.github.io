@@ -3,7 +3,7 @@
 # customise the display of your website.
 #
 # Refer to the theme docs for more details about each of these parameters.
-# https://nunocoracao.github.io/blowfish/docs/configuration/#theme-parameters
+# https://blowfish.page/docs/configuration/#theme-parameters
 
 colorScheme = "blowfish"
 defaultAppearance = "light" # valid options: light or dark
@@ -14,6 +14,14 @@ enableCodeCopy = true
 
 # mainSections = ["section1", "section2"]
 # robots = ""
+
+# disableImageOptimization = false
+
+# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
+
+# highlightCurrentMenuArea = true
+# smartTOC = true
+# smartTOCHideUnfocusedChildren = true
 
 [header]
   layout = "basic" # valid options: basic, fixed
@@ -61,7 +69,7 @@ enableCodeCopy = true
   showAuthorsBadges = false 
   showWordCount = true
   showSummary = true
-  sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"]
+  sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email"]
 
 [list]
   #showHero = true
@@ -77,12 +85,31 @@ enableCodeCopy = true
   groupByYear = true
   cardView = false
   cardViewScreenWidth = false
+  constrainItemsWidth = false
 
 [sitemap]
   excludedKinds = []
 
 [taxonomy]
   showTermCount = true
+  #showHero = true
+  #heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = false
+  #showViews = false
+  #showLikes = false
+  #showTableOfContents = true
+  #cardView = false
+
+[term]
+  #showHero = true
+  #heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = false
+  #showViews = false
+  #showLikes = false
+  #showTableOfContents = true
+  #groupByYear = false
+  #cardViewScreenWidth = false
+  #cardView = false
 
 [firebase]
   # apiKey = "XXXXXX"

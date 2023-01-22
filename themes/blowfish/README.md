@@ -3,7 +3,8 @@
 <a target="_blank" href="https://www.buymeacoffee.com/nunocoracao"><img class="nozoom" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=nunocoracao&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 <a target="_blank" href="http://tee.pub/lic/qwSlWVBL5zc"><img class="nozoom" src="https://img.buymeacoffee.com/button-api/?text=Merch Store &emoji=💎&slug=nunocoracao&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
-[![Blowfish Docs Deploy](https://github.com/nunocoracao/blowfish/actions/workflows/pages.yml/badge.svg)](https://github.com/nunocoracao/blowfish/actions/workflows/pages.yml)
+[![Deploy Production to Firebase](https://github.com/nunocoracao/blowfish/actions/workflows/firebase-production.yml/badge.svg)](https://github.com/nunocoracao/blowfish/actions/workflows/firebase-production.yml)
+[![Deploy Production to GitHub pages](https://github.com/nunocoracao/blowfish/actions/workflows/pages.yml/badge.svg)](https://github.com/nunocoracao/blowfish/actions/workflows/pages.yml)
 [![Minimum Hugo Version](https://img.shields.io/static/v1?label=min-HUGO-version&message=0.87.0&color=blue&logo=hugo)](https://github.com/gohugoio/hugo/releases/tag/v0.87.0)
 [![GitHub](https://img.shields.io/github/license/nunocoracao/blowfish)](https://github.com/nunocoracao/blowfish/blob/main/LICENSE)
 [![Blowfish](https://img.shields.io/badge/Hugo--Themes-@Blowfish-blue)](https://themes.gohugo.io/themes/blowfish/)
@@ -11,8 +12,8 @@
 
 Blowfish is designed to be a powerful, lightweight theme for [Hugo](https://gohugo.io). It's built using Tailwind CSS with a clean and minimalist design that prioritises to your content. The theme is a fork of [Congo](https://github.com/jpanther/congo).
 
-🌏 [Demo site](https://nunocoracao.github.io/blowfish/)  
-📑 [Theme documentation](https://nunocoracao.github.io/blowfish/docs/)  
+🌏 [Demo site](https://blowfish.page/)  
+📑 [Theme documentation](https://blowfish.page/docs/)  
 💎 [Merch Store](http://tee.pub/lic/qwSlWVBL5zc)  
 🐛 [Bug reports & issues](https://github.com/nunocoracao/blowfish/issues)  
 💡 [Questions & feature requests](https://github.com/nunocoracao/blowfish/discussions)
@@ -32,12 +33,17 @@ Blowfish is designed to be a powerful, lightweight theme for [Hugo](https://gohu
 - Support for multiple authors
 - Support for series of articles
 - Flexible with any content types, taxonomies and menus
+- Support for header and footer menus
+- Support for nested menus
+- Support for sub-navigation menu
 - Multilingual content support inlcuding support for RTL languages
 - Ability to link to posts on third-party websites
+- Support for several shortcodes like Gallery, GitHub cards, and Carousels
 - Buymeacoffee integration
 - Client-side site search powered by Fuse.js
 - Diagrams and visualisations using Mermaid
 - Charts using Chart.js
+- TypeIt integration
 - Mathematical notation using KaTeX
 - SVG icons from FontAwesome 6
 - Automatic image resizing using Hugo Pipes
@@ -54,7 +60,7 @@ Blowfish is designed to be a powerful, lightweight theme for [Hugo](https://gohu
 
 ## Documentation
 
-Blowfish has [extensive documentation](https://nunocoracao.github.io/blowfish/docs/) that covers all aspects of the theme. Be sure to [read the docs](https://nunocoracao.github.io/blowfish/docs/) to learn more about how to use the theme and its features.
+Blowfish has [extensive documentation](https://blowfish.page/docs/) that covers all aspects of the theme. Be sure to [read the docs](https://blowfish.page/docs/) to learn more about how to use the theme and its features.
 
 ---
 
@@ -62,7 +68,7 @@ Blowfish has [extensive documentation](https://nunocoracao.github.io/blowfish/do
 
 Blowfish supports several installation methods - as a git submodule, a Hugo Module, or as a completely manual install.
 
-Detailed instructions for each method can be found in the [Installation](https://nunocoracao.github.io/blowfish/docs/installation) docs. You should consult the documentation for the simplest setup experience. Below is a quick start guide using submodules if you are using git, or Hugo modules if you're already confident installing Hugo themes.
+Detailed instructions for each method can be found in the [Installation](https://blowfish.page/docs/installation) docs. You should consult the documentation for the simplest setup experience. Below is a quick start guide using submodules if you are using git, or Hugo modules if you're already confident installing Hugo themes.
 
 ### Quick start using git submodules
 
@@ -84,7 +90,7 @@ Detailed instructions for each method can be found in the [Installation](https:/
 
    You will find these theme config files in the Hugo cache directory, or [download a copy](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nunocoracao/blowfish/tree/main/config/_default) from GitHub.
 
-4. Follow the [Getting Started](https://nunocoracao.github.io/blowfish/docs/getting-started/) instructions to configure your website.
+4. Follow the [Getting Started](https://blowfish.page/docs/getting-started/) instructions to configure your website.
 
 ### Quick start using Hugo
 
@@ -111,13 +117,13 @@ Detailed instructions for each method can be found in the [Installation](https:/
 
    You will find these theme config files in the Hugo cache directory, or [download a copy](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nunocoracao/blowfish/tree/main/config/_default) from GitHub.
 
-5. Follow the [Getting Started](https://nunocoracao.github.io/blowfish/docs/getting-started/) instructions to configure your website.
+5. Follow the [Getting Started](https://blowfish.page/docs/getting-started/) instructions to configure your website.
 
 ### Installing theme updates
 
 As new releases are posted, you can update the theme using Hugo. Simply run `hugo mod get -u` from your project directory and the theme will automatically update to the latest release.
 
-Detailed [update instructions](https://nunocoracao.github.io/blowfish/docs/installation/#installing-updates) are available in the docs.
+Detailed [update instructions](https://blowfish.page/docs/installation/#installing-updates) are available in the docs.
 
 ---
 

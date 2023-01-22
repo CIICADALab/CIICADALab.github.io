@@ -4,6 +4,7 @@ module.exports = {
     "./content/**/*.{html,md}",
     "./themes/blowfish/layouts/**/*.html",
     "./themes/blowfish/content/**/*.{html,md}",
+    "./node_modules/tw-elements/dist/js/**/*.js"
   ],
   darkMode: "class",
   theme: {
@@ -117,6 +118,31 @@ module.exports = {
               padding: "0.1rem 0.2rem",
               borderRadius: "0.12rem",
             },
+            code:{
+              backgroundColor: theme("colors.neutral.50 / 1"),
+              paddingTop: "3px",
+              paddingBottom: "3px",
+              paddingLeft: "5px",
+              paddingRight: "5px",
+            },
+            'code::before': {
+              display: 'none'
+            },
+            'code::after': {
+              display: 'none'
+            },
+            'p::before': {
+              display: 'none'
+            },
+            'p::after': {
+              display: 'none'
+            },
+            'a.active': {
+              "text-decoration-color": theme("colors.primary.600 / 1"),
+            },
+            'p.active': {
+              "text-decoration-color": theme("colors.primary.600 / 1"),
+            }
           },
         },
         invert: {
@@ -131,6 +157,15 @@ module.exports = {
             mark: {
               backgroundColor: theme("colors.secondary.400 / 1"),
             },
+            code:{
+              backgroundColor: theme("colors.neutral.700 / 1"),
+            },
+            'a.active': {
+              "text-decoration-color": theme("colors.primary.400 / 1")
+            },
+            'p.active': {
+              "text-decoration-color": theme("colors.primary.400 / 1")
+            }
           },
         },
       }),
@@ -138,6 +173,7 @@ module.exports = {
   },
   plugins: [
     require("@tailwindcss/typography"),
-    require('@tailwindcss/forms')
+    require('@tailwindcss/forms'),
+    require('tw-elements/dist/plugin')
   ],
 };

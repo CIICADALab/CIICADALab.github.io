@@ -3,7 +3,7 @@
 # customise the display of your website.
 #
 # Refer to the theme docs for more details about each of these parameters.
-# https://nunocoracao.github.io/blowfish/docs/configuration/#theme-parameters
+# https://blowfish.page/docs/configuration/#theme-parameters
 
 colorScheme = "blowfish"
 defaultAppearance = "dark" # valid options: light or dark
@@ -14,6 +14,14 @@ enableCodeCopy = true
 
 mainSections = ["docs"]
 # robots = ""
+
+disableImageOptimization = true
+
+defaultBackgroundImage = "/img/bg.jpg"
+
+highlightCurrentMenuArea = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = false
 
 [header]
   layout = "fixed" # valid options: basic, fixed
@@ -27,12 +35,12 @@ mainSections = ["docs"]
 
 [homepage]
   layout = "custom" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "/img/iceland.jpg" # used in: hero, and card
+  # homepageImage = "/img/iceland.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 10
   showMoreLink = true
   showMoreLinkDest = "docs"
-  cardView = true
+  cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
 
@@ -60,7 +68,7 @@ mainSections = ["docs"]
   showAuthorsBadges = true 
   showWordCount = false
   showSummary = true
-  sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"]
+  sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email"]
 
 [list]
   showHero = true
@@ -76,12 +84,32 @@ mainSections = ["docs"]
   groupByYear = false
   cardView = true
   cardViewScreenWidth = false
+  constrainItemsWidth = false
 
 [sitemap]
   excludedKinds = ["taxonomy","term"]
 
 [taxonomy]
   showTermCount = true
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = false
+  showViews = true
+  showLikes = true
+  showTableOfContents = true
+  cardView = false
+
+[term]
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = false
+  showViews = true
+  showLikes = true
+  showTableOfContents = true
+  groupByYear = false
+  cardView = true
+  cardViewScreenWidth = false
+  
 
 [firebase]
   apiKey = "AIzaSyB5tqlqDky77Vb4Tc4apiHV4hRZI18KGiY"

@@ -31,11 +31,34 @@ For example, if you wanted to override the main article template in Blowfish, yo
 
 As long as you follow this simple practice, you will always be able to update the theme (or test different theme versions) without worrying that you will lose any of your custom changes.
 
+## Change image optimization settings
+
+Hugo has various builtin methods to resize, crop and optimize images.
+
+As an example - in `layouts/partials/article-link/card.html`, you have the following code:
+
+```go
+{{ with .Resize "600x" }}
+<div class="w-full thumbnail_card nozoom" style="background-image:url({{ .RelPermalink }});"></div>
+{{ end }}
+```
+
+The default behavior of Hugo here is to resize the image to 600px keeping the ratio.
+
+It is worth noting here that default image configurations such as [anchor point](https://gohugo.io/content-management/image-processing/#anchor) can also be set in your [site configuration](https://gohugo.io/content-management/image-processing/#processing-options) as well as in the template itself.
+
+See the [Hugo docs on image processing](https://gohugo.io/content-management/image-processing/#image-processing-methods) for more info.
+
 ## Colour schemes
 
 Blowfish ships with a number of colour schemes out of the box. To change the basic colour scheme, you can set the `colorScheme` theme parameter. Refer to the [Getting Started]({{< ref "getting-started#colour-schemes" >}}) section to learn more about the built-in schemes.
 
 In addition to the default schemes, you can also create your own and re-style the entire website to your liking. Schemes are created by by placing a `<scheme-name>.css` file in the `assets/css/schemes/` folder. Once the file is created, simply refer to it by name in the theme configuration.
+
+{{< alert "github">}}
+**Note:** generating these files manually can be hard, I've built a `nodejs` terminal tool to help with that, [Fugu](https://github.com/nunocoracao/fugu). In a nutshell, you pass the main three `hex` values of your color pallette and the program will output a css file that can be imported directly into Blowfish.
+{{< /alert >}}
+
 
 Blowfish defines a three-colour palette that is used throughout the theme. The three colours are defined as `neutral`, `primary` and `secondary` variants, each containing ten shades of colour.
 
@@ -59,7 +82,7 @@ The `custom.css` file will be minified by Hugo and loaded automatically after al
 
 ### Using additional fonts
 
-Blowfish allows you to easily change the font for your site. After creating a `custom.css` file in your project's `assets/css/` folder, place you font file inside a `fonts` folder withing the `static` root folder. 
+Blowfish allows you to easily change the font for your site. After creating a `custom.css` file in your project's `assets/css/` folder, place you font file inside a `fonts` folder withing the `static` root folder.
 
 ```shell
 .
@@ -85,8 +108,6 @@ html {
     font-family: font;
 }
 ```
-
-
 
 ### Adjusting the font size
 
@@ -154,7 +175,7 @@ In order to take advantage of the default configuration, your project should loo
 │       └── _index.md
 ├── layouts  # custom layouts for your site
 │   ├── partials
-│   │   └── extend-article-link.html
+│   │   └── extend-article-link/simple.html
 │   ├── projects
 │   │   └── list.html
 │   └── shortcodes

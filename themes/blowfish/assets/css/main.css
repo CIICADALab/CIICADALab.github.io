@@ -337,7 +337,7 @@ body:has(#menu-controller:checked) {
   @apply underline;
 }
 
-/* */
+/* Custom */
 
 .thumbnail {
   min-width: 300px;
@@ -349,6 +349,13 @@ body:has(#menu-controller:checked) {
 
 .thumbnail_card {
   height: 250px;
+  background-repeat:no-repeat;
+  background-size:cover; 
+  background-position:center;
+}
+
+.thumbnail_card_term {
+  height: 150px;
   background-repeat:no-repeat;
   background-size:cover; 
   background-position:center;
@@ -411,3 +418,58 @@ body:has(#menu-controller:checked) {
     flex-wrap: nowrap;
   }
 }
+
+.medium-zoom-image--opened {
+  z-index: 100;
+}
+
+.nested-menu:hover + .menuhide {
+  visibility: visible;
+  opacity: 1;
+  transition: visibility 0.3s, opacity 0.3s ease-in-out ;
+}
+
+.menuhide:hover {
+  visibility: visible;
+  opacity: 1;
+  transition: visibility 0.3s, opacity 0.3s ease-in-out ;
+}
+
+.menuhide {
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0.3s, opacity 0.3s ease-in-out ;
+  z-index: 1000;
+}
+
+.active {
+  text-decoration-line: underline;
+  text-decoration-thickness: 3px;
+  text-underline-offset: 4px;
+}
+
+.grid-w10 { width: calc(10% - 5px); margin: 0px !important; }
+.grid-w15 { width: calc(15% - 5px); margin: 0px !important; }
+.grid-w20 { width: calc(20% - 5px); margin: 0px !important; }
+.grid-w25 { width: calc(25% - 5px); margin: 0px !important; }
+.grid-w30 { width: calc(30% - 5px); margin: 0px !important; }
+.grid-w33 { width: calc(33% - 5px); margin: 0px !important; }
+.grid-w35 { width: calc(35% - 5px); margin: 0px !important; }
+.grid-w40 { width: calc(40% - 5px); margin: 0px !important; }
+.grid-w45 { width: calc(45% - 5px); margin: 0px !important; }
+.grid-w50 { width: calc(50% - 5px); margin: 0px !important; }
+.grid-w55 { width: calc(55% - 5px); margin: 0px !important; }
+.grid-w60 { width: calc(60% - 5px); margin: 0px !important; }
+.grid-w65 { width: calc(65% - 5px); margin: 0px !important; }
+.grid-w66 { width: calc(66% - 5px); margin: 0px !important; }
+.grid-w70 { width: calc(70% - 5px); margin: 0px !important; }
+.grid-w75 { width: calc(75% - 5px); margin: 0px !important; }
+.grid-w80 { width: calc(80% - 5px); margin: 0px !important; }
+.grid-w85 { width: calc(85% - 5px); margin: 0px !important; }
+.grid-w90 { width: calc(90% - 5px); margin: 0px !important; }
+.grid-w95 { width: calc(95% - 5px); margin: 0px !important; }
+.grid-w100 { width: calc(100% - 5px); margin: 0px !important; }
+
+.ratio-16-9 { padding-top: 56.25%; } /* 16:9 Aspect Ratio */
+.ratio-21-9 { padding-top: 42.85%; } /* 21:9 Aspect Ratio */
+.ratio-32-9 { padding-top: 28.125%; } /* 32:9 Aspect Ratio */
