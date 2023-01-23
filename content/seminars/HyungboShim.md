@@ -1,7 +1,7 @@
 ---
 title: "Hyungbo Shim's Talk on Analysis and Synthesis of Heterogeneous Multi-agent System via Blended
 Dynamics Approach"
-date: 2022-02-03T10:00:00+10:00
+date: 2023-02-03T10:00:00+10:00
 draft: false
 ---
 

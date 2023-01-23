@@ -1,7 +1,7 @@
 ---
 title: "Hyungbo Shim's Talk on Threats of Robust/Sampling/Enforced Zero-dynamics Attacks, and
 Countermeasures against Them"
-date: 2022-02-10T10:00:00+10:00
+date: 2023-02-10T10:00:00+10:00
 draft: false
 ---
 

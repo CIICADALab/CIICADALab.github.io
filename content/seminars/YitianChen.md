@@ -1,6 +1,6 @@
 ---
 title: "Yitian Chen's Talk on Regret Analysis of Online LQR Control via Trajectory Prediction and Tracking"
-date: 2022-02-03T11:00:00+10:00
+date: 2023-02-03T11:00:00+10:00
 draft: false
 ---
 
