@@ -1,7 +1,7 @@
 ---
 title: "Matthew Hampsey's Talk on Nonlinear trajectory tracking on homogeneous
 spaces"
-date: 2023-04-13T11:00:00+10:00
+date: 2023-04-14T11:00:00+10:00
 draft: false
 ---
 
@@ -9,7 +9,7 @@ draft: false
 __Title:__ Nonlinear trajectory tracking on homogeneous spaces
 
 
-__Time, Date, Location__: 11:00, Friday, 13 April, 2023, Brian Anderson Building Seminar Room
+__Time, Date, Location__: 11:00, Friday, 14 April, 2023, Brian Anderson Building Seminar Room
 
 __Abstract:__ Accurate tracking of planned trajectories in the presence of
 perturbations is a fundamental problem in control and robotics. A powerful set
