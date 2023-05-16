@@ -1,3 +1,6 @@
+global:
+  language: "🇯🇵"
+
 article:
   anchor_label: "アンカー"
   date: "{{ .Date }}"
@@ -15,6 +18,7 @@ article:
   part_of_series: "This article is part of a series."
   part: "Part"
   this_article: "This Article"
+  related_articles: "Related"
 
 author:
   byline_title: "著者"

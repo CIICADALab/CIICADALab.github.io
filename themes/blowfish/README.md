@@ -1,6 +1,6 @@
 # Blowfish
 
-<a target="_blank" href="https://www.buymeacoffee.com/nunocoracao"><img class="nozoom" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=nunocoracao&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/nunocoracao" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <a target="_blank" href="http://tee.pub/lic/qwSlWVBL5zc"><img class="nozoom" src="https://img.buymeacoffee.com/button-api/?text=Merch Store &emoji=💎&slug=nunocoracao&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 [![Deploy Production to Firebase](https://github.com/nunocoracao/blowfish/actions/workflows/firebase-production.yml/badge.svg)](https://github.com/nunocoracao/blowfish/actions/workflows/firebase-production.yml)
@@ -29,16 +29,16 @@ Blowfish is designed to be a powerful, lightweight theme for [Hugo](https://gohu
 - Highly customisable configuration
 - Firebase integration to support dynamic data
 - Views count & like mechanism
+- Related articles
 - Multiple homepage layouts
-- Support for multiple authors
-- Support for series of articles
+- Multiple authors
+- Series of articles
 - Flexible with any content types, taxonomies and menus
-- Support for header and footer menus
-- Support for nested menus
-- Support for sub-navigation menu
+- Header and footer menus
+- Nested menus & sub-navigation menu
 - Multilingual content support inlcuding support for RTL languages
 - Ability to link to posts on third-party websites
-- Support for several shortcodes like Gallery, GitHub cards, and Carousels
+- Support for several shortcodes like Gallery, Timeline, GitHub cards, and Carousels
 - Buymeacoffee integration
 - Client-side site search powered by Fuse.js
 - Diagrams and visualisations using Mermaid

@@ -1,3 +1,6 @@
+global:
+  language: "🇪🇸"
+
 article:
   anchor_label: "Ancla"
   date: "{{ .Date }}"
@@ -15,6 +18,7 @@ article:
   part_of_series: "Este artículo es parte de una serie."
   part: "Parte"
   this_article: "Este artículo"
+  related_articles: "Related"
 
 author:
   byline_title: "Autor"

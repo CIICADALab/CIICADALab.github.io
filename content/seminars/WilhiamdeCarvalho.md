@@ -1,10 +1,8 @@
 ---
-title: "Wilhiam de Carvalho's Talk on Optimisation and control of distributed
-energy resources for power and voltage regulation in distribution networks
+title: "Wilhiam de Carvalho's Talk on Optimisation and control of distributed energy resources for power and voltage regulation in distribution networks"
 date: 2023-05-19T11:00:00+10:00
 draft: false
 ---
-
 
 __Title:__ Optimisation and control of distributed energy resources for power and voltage regulation in distribution networks
 

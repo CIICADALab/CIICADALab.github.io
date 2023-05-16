@@ -31,18 +31,15 @@ Real websites that are built with Blowfish.
 | [code-chimp.com](https://code-chimp.com)                              | Personal site                |
 | [mucahitkurtlar.github.io](https://mucahitkurtlar.github.io)          | Personal site                |
 | [brendanwallace.github.io](https://brendanwallace.github.io)          | Personal site                |
-| [www.codetea.top](https://www.codetea.top)                            | Personal site                |
 | [fedeizzo.dev](https://fedeizzo.dev)                                  | Personal site                |
 | [cuttontail.blog](https://cuttontail.blog)                            | Personal site                |
 | [pmnxis.github.io](https://pmnxis.github.io)                          | Personal site                |
-| [jessvimm.github.io/jess-vimm](https://jessvimm.github.io/jess-vimm/) | Personal site                |
 | [ciicadalab.github.io](https://ciicadalab.github.io)                  | Organization site            |
 | [georgiancodeclub.github.io](https://georgiancodeclub.github.io)      | College club site            |
 | [albertolvera.com](https://albertolvera.com)                          | Personal site                |
 | [chris.banes.dev](https://chris.banes.dev)                            | Personal site                |
 | [fahru.my.id](https://www.fahru.my.id)                                | Personal site                |
 | [jeknom.github.io](https://jeknom.github.io)                          | Personal site                |
-| [priyakdey.github.io](https://priyakdey.github.io)                    | Personal site                |
 | [blog.watchstep.me](https://blog.watchstep.me)                        | Personal site                |
 | [overdevelop.io](https://overdevelop.io)                              | Personal site                |
 | [loisvelasco.is-a.dev](https://loisvelasco.is-a.dev)                  | Personal site                |
@@ -50,7 +47,6 @@ Real websites that are built with Blowfish.
 | [omarohn.de](https://omarohn.de)                                      | Personal site                |
 | [spelucin.me](https://spelucin.me)                                    | Personal site                |
 | [insidemordecai.com](https://insidemordecai.com)                      | Personal site                |
-| [sajayprakash.com](https://sajayprakash.com)                          | Personal site                |
 | [jamesdixon.dev](https://jamesdixon.dev)                              | Personal site                |
 | [blastomussa.dev](https://blastomussa.dev)                            | Personal site                |
 | [cdell.io](https://cdell.io)                                          | Personal site                |
@@ -58,11 +54,27 @@ Real websites that are built with Blowfish.
 | [priyakdey.com](https://priyakdey.com)                                | Personal site                |
 | [sdehm.dev](https://sdehm.dev)                                        | Personal site                |
 | [dizzytech.de](https://dizzytech.de)                                  | Personal site                |
-| [blog.rotrixx.eu](https://blog.rotrixx.eu)                            | Personal site                |
-| [hexwiki.cz](https://hexwiki.cz/)                                     | Personal site                |
 | [alejandro-ao.com](https://alejandro-ao.com/)                         | Personal site                |
 | [adir1.com](https://adir1.com/)                                       | Personal site                |
 | [niklas-hartmann-dev.de](https://niklas-hartmann-dev.de/)             | Personal site                |
+| [blog.muffn.io](https://blog.muffn.io/)                               | Personal site                |
+| [nick.bouwhuis.net](https://nick.bouwhuis.net)                        | Personal site                |
+| [vividscc.com](https://vividscc.com/)                                 | Business site                |
+| [muhalvin.github.io](https://muhalvin.github.io/)                     | Personal site                |
+| [mariuskimmina.com](https://mariuskimmina.com/)                       | Personal site                |
+| [ashwinbalaji.xyz](https://ashwinbalaji.xyz/)                         | Personal site                |
+| [technicat.com](https://technicat.com/)                               | Company site                 |
+| [fugugames.com](https://fugugames.com/)                               | Games site                   |
+| [hyperbowl3d.com](https://hyperbowl3d.com/)                           | Game site                    |
+| [talkdimsum.com](https://talkdimsum.com/)                             | App site                     |
+| [alanctanner.com](https://alanctanner.com/)                           | Personal site                |
+| [rdgo.dev](https://rdgo.dev/)                                         | Personal site                |
+| [ripplesding.github.io](https://ripplesding.github.io/)               | Personal site                |
+| [terraformbuch.de](https://terraformbuch.de/)                         | Book site                    |
+| [shenshu.fun](https://shenshu.fun/)                                   | Personal site                |
+| [hellstabber.github.io](https://hellstabber.github.io/)               | Personal site                |
+| [clemsau.com](https://clemsau.com/)                                   | Personal site                |
+| [lelouvincx.github.io](https://lelouvincx.github.io/)                 | Personal site                |
 
 {{< alert >}}
 

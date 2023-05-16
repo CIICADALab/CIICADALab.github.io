@@ -62,7 +62,7 @@ module.exports = {
             "--tw-prose-body": theme("colors.neutral.700 / 1"),
             "--tw-prose-headings": theme("colors.neutral.800 / 1"),
             "--tw-prose-lead": theme("colors.neutral.500 / 1"),
-            "--tw-prose-links": theme("colors.primary.700 / 1"),
+            "--tw-prose-links": theme("colors.primary.600 / 1"),
             "--tw-prose-bold": theme("colors.neutral.900 / 1"),
             "--tw-prose-counters": theme("colors.neutral.800 / 1"),
             "--tw-prose-bullets": theme("colors.neutral.500 / 1"),
@@ -96,9 +96,8 @@ module.exports = {
               textDecorationColor: theme("colors.primary.300 / 1"),
               fontWeight: "500",
               "&:hover": {
-                color: theme("colors.neutral.DEFAULT / 1"),
+                color: theme("colors.primary.600 / 1"),
                 textDecoration: "none",
-                backgroundColor: theme("colors.primary.600 / 1"),
                 borderRadius: "0.09rem",
               },
             },
@@ -114,9 +113,9 @@ module.exports = {
             },
             mark: {
               color: theme("colors.neutral.800 / 1"),
-              backgroundColor: theme("colors.secondary.200 / 1"),
+              backgroundColor: theme("colors.primary.600 / 1"),
               padding: "0.1rem 0.2rem",
-              borderRadius: "0.12rem",
+              borderRadius: "0.25rem",
             },
             code:{
               backgroundColor: theme("colors.neutral.50 / 1"),
@@ -124,6 +123,7 @@ module.exports = {
               paddingBottom: "3px",
               paddingLeft: "5px",
               paddingRight: "5px",
+              borderRadius: "0.25rem",
             },
             'code::before': {
               display: 'none'
@@ -149,13 +149,16 @@ module.exports = {
           css: {
             a: {
               textDecorationColor: theme("colors.neutral.600 / 1"),
+              "&:hover": {
+                color: theme("colors.primary.400 / 1"),
+              },
             },
             kbd: {
               color: theme("colors.neutral.200 / 1"),
               backgroundColor: theme("colors.neutral.700 / 1"),
             },
             mark: {
-              backgroundColor: theme("colors.secondary.400 / 1"),
+              backgroundColor: theme("colors.primary.400 / 1"),
             },
             code:{
               backgroundColor: theme("colors.neutral.700 / 1"),
@@ -174,6 +177,5 @@ module.exports = {
   plugins: [
     require("@tailwindcss/typography"),
     require('@tailwindcss/forms'),
-    require('tw-elements/dist/plugin')
   ],
 };

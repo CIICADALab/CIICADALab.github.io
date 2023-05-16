@@ -15,16 +15,17 @@ enableCodeCopy = true
 mainSections = ["docs"]
 # robots = ""
 
-disableImageOptimization = true
+disableImageOptimization = false
 
-defaultBackgroundImage = "/img/bg.jpg"
+defaultBackgroundImage = "/img/ocean.jpg"
+defaultFeaturedImage = "/img/ocean.jpg"
 
 highlightCurrentMenuArea = true
 smartTOC = true
-smartTOCHideUnfocusedChildren = false
+smartTOCHideUnfocusedChildren = true
 
 [header]
-  layout = "fixed" # valid options: basic, fixed
+  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -37,7 +38,7 @@ smartTOCHideUnfocusedChildren = false
   layout = "custom" # valid options: page, profile, hero, card, background, custom
   # homepageImage = "/img/iceland.jpg" # used in: hero, and card
   showRecent = false
-  showRecentItems = 10
+  showRecentItems = 6
   showMoreLink = true
   showMoreLinkDest = "docs"
   cardView = false
@@ -64,11 +65,13 @@ smartTOCHideUnfocusedChildren = false
   invertPagination = false
   showReadingTime = true
   showTableOfContents = true
+  showRelatedContent = true
+  relatedContentLimit = 6
   showTaxonomies = true 
   showAuthorsBadges = true 
   showWordCount = false
   showSummary = true
-  sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email"]
+  sharingLinks = [ "linkedin", "twitter", "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email"]
 
 [list]
   showHero = true

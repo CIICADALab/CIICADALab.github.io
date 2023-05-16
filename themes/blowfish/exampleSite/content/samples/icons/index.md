@@ -6,6 +6,7 @@ draft: false
 description: "Icon support in Blowfish."
 slug: "icons"
 tags: ["icons", "sample", "shortcodes"]
+type: 'sample'
 ---
 
 Blowfish has built-in support for a number of [FontAwesome 6](https://fontawesome.com/icons) icons. These can be included in your website through either the [icon partial]({{< ref "docs/partials#icon" >}}) or [icon shortcode]({{< ref "docs/shortcodes#icon" >}}).
@@ -45,6 +46,7 @@ The full list of built-in icons and their corresponding names can referenced bel
 | ghost                | {{< icon ghost >}}                |
 | github               | {{< icon github >}}               |
 | gitlab               | {{< icon gitlab >}}               |
+| globe                | {{< icon globe >}}                |
 | goodreads            | {{< icon goodreads >}}            |
 | google               | {{< icon google >}}               |
 | hackernews           | {{< icon hackernews >}}           |
@@ -91,6 +93,7 @@ The full list of built-in icons and their corresponding names can referenced bel
 | star                 | {{< icon star >}}                 |
 | steam                | {{< icon steam >}}                |
 | stripe               | {{< icon stripe >}}               |
+| substack             | {{< icon substack >}}             |
 | sun                  | {{< icon sun >}}                  |
 | tag                  | {{< icon tag >}}                  |
 | telegram             | {{< icon telegram >}}             |
