@@ -1,7 +1,7 @@
 ---
 title: "Giovanni Sansavini's Talk on Engineering Energy Networks Facing Global Transition:
 From Predicting Cascading Failures to Optimizing System Safety"
-date: 2023-06-02T10:00:00+10:00
+date: 2023-06-01T10:00:00+10:00
 draft: false
 ---
 
@@ -10,7 +10,7 @@ __Title:__ Optimisation and control of distributed energy resources for power
 and voltage regulation in distribution networks
 
 
-__Time, Date, Location__: 10:00, Thursday, June 2, 2023, Brian Anderson Seminar Room
+__Time, Date, Location__: 10:00, Thursday, June 1, 2023, Brian Anderson Seminar Room
 
 
 __Abstract:__ Aiming at a sustainable energy production and at securing their
