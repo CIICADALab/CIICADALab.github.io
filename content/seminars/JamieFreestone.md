@@ -1,6 +1,6 @@
 ---
 title: "Jamie Freestone's talk on  Philosophy, feedback, and representations"
-date: 2023-06-03T11:00:00+10:00
+date: 2023-06-02T11:00:00+10:00
 draft: false
 ---
 
@@ -8,7 +8,7 @@ draft: false
 __Title:__ Philosophy, feedback, and representations
 
 
-__Time, Date, Location__: 11:00, Friday, June 3, 2023, Brian Anderson Seminar Room
+__Time, Date, Location__: 11:00, Friday, June 2, 2023, Brian Anderson Seminar Room
 
 
 __Abstract:__ Many branches of philosophy, linguistics, and cognitive science have tackled the
