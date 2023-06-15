@@ -41,24 +41,26 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 
 ### Postdoctoral and Research Fellows
 
-- Abhishek Bhardwaj <kbd> Power Systems and Optimisation Lab </kbd>
+- Abhishek Bhardwaj 
 - Pieter van Goor <kbd> STR Lab </kbd>
 - Nanduni Nimalsiri <kbd> Power Systems and Optimisation Lab </kbd>
 - Yuen Man (Mandy) Pun
+- Jamie Freestone
 
 ### Research Assistants
 
 - Oliver Biggar
-- Rebecca Craine
+- Gabe Bolton
 
 ## PhD, Masters, Honours and Undergraduate Students
 
 ### PhD, MPhil, and Masters Students
 
-- Rudra Bhattacharya
 - Yitian Chen
+- Amirali Farzin
 - Shawn Ge <kbd> STR Lab </kbd>
 - Matthew Hampsey <kbd> STR Lab </kbd>
+- Maryam Khodabakhshloo
 - Yun-Yan Lee
 - Norak Rin <kbd> Power Systems and Optimisation Lab </kbd>
 - Zeinab Salehi <kbd> Power Systems and Optimisation Lab </kbd>
@@ -71,9 +73,10 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 
 ### Honours and Undergraduate Students
 
-- Angus Apps
+- Angus Apps <kbd> STR Lab </kbd>
 - Adhitya Bidarkal
 - Olivia Dry
+- Thomas McKeane
 
 
 
@@ -84,5 +87,11 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 
 ## Alumni and Emeriti
 
+### Emeriti
+
 - Brian D. O. Anderson
 - Matthew R. James
+
+### Alumni
+
+- Rebecca Craine
