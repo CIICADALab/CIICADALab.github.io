@@ -75,6 +75,11 @@ Real websites that are built with Blowfish.
 | [hellstabber.github.io](https://hellstabber.github.io/)               | Personal site                |
 | [clemsau.com](https://clemsau.com/)                                   | Personal site                |
 | [lelouvincx.github.io](https://lelouvincx.github.io/)                 | Personal site                |
+| [weaxsey.org](https://weaxsey.org/)                                   | Personal site                |
+| [nikarashihatsu.github.io](https://nikarashihatsu.github.io/)         | Personal site                |
+| [blog.enmanuelmoreira.com](https://blog.enmanuelmoreira.com)          | Personal site                |
+| [halcyonstraits.com](https://www.halcyonstraits.com/)                 | Doll photography             |
+| [50-nuances-octets.fr](https://www.50-nuances-octets.fr/)             | Organization site            |
 
 {{< alert >}}
 
