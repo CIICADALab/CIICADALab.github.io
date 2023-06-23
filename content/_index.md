@@ -31,7 +31,7 @@ We actively seek collaborators from across academia, industry, and government to
 
 
 {{< alert "circle-info" >}}
-We run an ever-green and competitive process for providing support for vising researchers in different career stages from academia and industry. Please contact us if interested.
+We run an ever-green and competitive process for providing support for visiting researchers in different career stages from academia and industry. Please contact us if interested.
 {{< /alert >}}
 </br>
 {{< button href="mailto:iman.shames@anu.edu.au" target="_self" >}}
