@@ -41,7 +41,6 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 
 ### Postdoctoral and Research Fellows
 
-- Abhishek Bhardwaj 
 - Pieter van Goor <kbd> STR Lab </kbd>
 - Nanduni Nimalsiri <kbd> Power Systems and Optimisation Lab </kbd>
 - Yuen Man (Mandy) Pun
@@ -65,6 +64,7 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 - Norak Rin <kbd> Power Systems and Optimisation Lab </kbd>
 - Zeinab Salehi <kbd> Power Systems and Optimisation Lab </kbd>
 - Kanghong Shi
+- Namantha Thanthrige <kbd> Power Systems and Optimisation Lab </kbd>
 - Rebbecca Thien
 - Alex Wu
 
@@ -95,3 +95,4 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 ### Alumni
 
 - Rebecca Craine
+- Abhishek Bhardwaj 
