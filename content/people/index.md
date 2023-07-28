@@ -25,6 +25,7 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 ## Faculty Members
 
 - Philipp Braun
+- Daoyi Dong
 - Christopher Kellett
 - Robert Mahony <kbd> STR Lab </kbd>
 - Tim Molloy
