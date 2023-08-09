@@ -1,5 +1,5 @@
 ---
-title: "Yamin Nan Talk on Towards Autonomous Synchronization: Introducing Open Problems in Coordinating Diverse Dynamic Agents"
+title: "Yamin Yan Talk on Towards Autonomous Synchronization: Introducing Open Problems in Coordinating Diverse Dynamic Agents"
 date: 2023-08-11T11:00:00+10:00
 draft: false
 ---
