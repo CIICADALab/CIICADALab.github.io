@@ -21,7 +21,7 @@ international collaborators from esteemed and leading institutions including ind
 Affiliated Labs and Groups:
 
 - STR Lab
-- Power Systems and Optimisation Lab
+- EGSR Lab
 
 {{< alert "lightbulb" >}}
 We actively seek collaborators from across academia, industry, and government to work on interesting, challenging, and impactful problems in the broad areas listed above.

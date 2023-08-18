@@ -20,6 +20,7 @@ showSummary: false
 sharingLinks: [ "linkedin", "twitter", "email"]
 ---
 
+![CIICADA Lab, Aug 2023](group.jpg "A subset of CIICADA Lab members.") 
 
 
 ## Faculty Members
@@ -30,7 +31,7 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 - Robert Mahony <kbd> STR Lab </kbd>
 - Tim Molloy
 - Ian R. Petersen
-- Elizabeth Ratnam <kbd> Power Systems and Optimisation Lab </kbd>
+- Elizabeth Ratnam <kbd> EGSR Lab </kbd>
 - [Iman Shames](https://imanshames.blog)
 - Nan Yang
 
@@ -42,8 +43,9 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 
 ### Postdoctoral and Research Fellows
 
+- Yijun Chen
 - Pieter van Goor <kbd> STR Lab </kbd>
-- Nanduni Nimalsiri <kbd> Power Systems and Optimisation Lab </kbd>
+- Nanduni Nimalsiri <kbd>EGSR Lab </kbd>
 - Yuen Man (Mandy) Pun
 - Jamie Freestone
 
@@ -62,10 +64,10 @@ sharingLinks: [ "linkedin", "twitter", "email"]
 - Matthew Hampsey <kbd> STR Lab </kbd>
 - Maryam Khodabakhshloo
 - Yun-Yan Lee
-- Norak Rin <kbd> Power Systems and Optimisation Lab </kbd>
-- Zeinab Salehi <kbd> Power Systems and Optimisation Lab </kbd>
+- Norak Rin <kbd> EGSR Lab </kbd>
+- Zeinab Salehi <kbd> EGSR Lab </kbd>
 - Kanghong Shi
-- Namantha Thanthrige <kbd> Power Systems and Optimisation Lab </kbd>
+- Namantha Thanthrige <kbd> EGSR Lab </kbd>
 - Rebbecca Thien
 - Alex Wu
 
