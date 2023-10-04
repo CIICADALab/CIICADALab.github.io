@@ -1,6 +1,6 @@
 ---
-title: "Iman Shames' Talk on resampling schemes for particle filters with weakly informative observation"
-date: 2023-08-06T11:00:00+10:00
+title: "Sumeetpal Singh's Talk on resampling schemes for particle filters with weakly informative observation"
+date: 2023-10-06T11:00:00+10:00
 draft: false
 ---
 
