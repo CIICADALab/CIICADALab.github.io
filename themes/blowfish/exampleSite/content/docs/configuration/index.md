@@ -57,6 +57,7 @@ The theme currently supports the following languages by default:
 
 | Language                       | Code    |
 | ------------------------------ | ------- |
+| 🇦🇪 Arabic                       | `ar`    |
 | 🇧🇬 Bulgarian                    | `bg`    |
 | 🇧🇩 Bengali                      | `bn`    |
 | 🇨🇿 Czech                        | `cs`    |
@@ -71,6 +72,7 @@ The theme currently supports the following languages by default:
 | 🇮🇩 Indonesian                   | `id`    |
 | 🇮🇹 Italian                      | `it`    |
 | 🇯🇵 Japanese                     | `ja`    |
+| 🇰🇷 Korean                       | `ko`    |
 | 🇵🇱 Polish                       | `pl`    |
 | 🇧🇷 Portuguese (Brazil)          | `pt-br` |
 | 🇵🇹 Portuguese (Portugal)        | `pt-pt` |
@@ -110,8 +112,8 @@ The default file can be used as a template to create additional languages, or re
 #### Params
 
 <!-- prettier-ignore-start -->
-| Name            | Default            | Description                                                                                                                                                                                                                                                                                                                |
-| --------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Name                   | Default            | Description                                                                                                                                                                                                                                                                                                                |
+| ---------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `params.displayName`   | `"EN"`             | The name used when the language appears on the website.                                                                                                                                                                                                                                                                    |
 | `params.isoCode`       | `"en"`             | The ISO language code for HTML metadata purposes. It can be a top-level language (ie. `en`) or a sub-variant (ie. `en-AU`).                                                                                                                                                                                                |
 | `params.rtl`           | `false`            | Whether or not this is a RTL language. Set to `true` to reflow content from right-to-left. Blowfish fully supports using RTL and LTR languages at the same time and will dynamically adjust to both.                                                                                                                       |
@@ -228,7 +230,6 @@ Many of the article defaults here can be overridden on a per article basis by sp
 | `article.showAuthorsBadges`           | `false`   | Whether the `authors` taxonomies are are displayed in the article or list header. This requires the setup of `multiple authors` and the `authors` taxonomy. Check [this page]({{< ref "multi-author" >}}) for more details on how to configure that feature.                                                           |
 | `article.showWordCount`               | `false`   | Whether or not article word counts are displayed.                                                                                                                                                                                                                                                                      |
 | `article.showComments`                | `false`   | Whether or not the [comments partial]({{< ref "partials#comments" >}}) is included after the article footer.                                                                                                                                                                                                           |
-| `article.showSummary`                 | `false`   | Whether or not article summaries are displayed on list pages. If a summary is not provided in the [front matter]({{< ref "front-matter" >}}), one will be auto generated using the `summaryLength` parameter in the [site configuration](#site-configuration).                                                         |
 | `article.sharingLinks`                | _Not set_ | Which sharing links to display at the end of each article. When not provided, or set to `false` no links will be displayed.  Available values are: "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", and "telegram"                                                                       |
 
 ### List

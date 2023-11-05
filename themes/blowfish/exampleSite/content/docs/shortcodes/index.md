@@ -204,6 +204,7 @@ The `figure` shortcode accepts six parameters:
 | `caption` | Markdown for the image caption, which will be displayed below the image.                                                                                                                                                                                                                                                                                                                  |
 | `class`   | Additional CSS classes to apply to the image.                                                                                                                                                                                                                                                                                                                                             |
 | `href`    | URL that the image should be linked to.                                                                                                                                                                                                                                                                                                                                                   |
+| `nozoom`  | `nozoom=true` disables the image "zoom" functionality. This is most useful in combination with a `href` link.                                                                                                                                                                                                                                                                             |
 | `default` | Special parameter to revert to default Hugo `figure` behaviour. Simply provide `default=true` and then use normal [Hugo shortcode syntax](https://gohugo.io/content-management/shortcodes/#figure).                                                                                                                                                                                       |
 <!-- prettier-ignore-end -->
 
@@ -427,6 +428,30 @@ The `where` and `value` values are used in the following query `where .Site.Regu
 ```
 
 {{< list title="Samples" limit=5 where="Type" value="sample">}}
+
+<br/><br/><br/>
+
+## LTR/RTL 
+
+`ltr` and `rtl` allows you to mix your contents. Many RTL language users want to include parts of the content in LTR. Using this shortcode will let you do so, and by leveraging `%` as the outer-most dilemeter in the shortcode [Hugo shortcodes](https://gohugo.io/content-management/shortcodes/#shortcodes-with-markdown), any markdown inside will be rendered normally.
+
+**Example:**
+
+```md
+- This is an markdown list.
+- Its per default a LTR direction
+{{%/* rtl */%}}
+- هذه القائمة باللغة العربية
+- من اليمين الى اليسار
+{{%/* /rtl */%}}
+```
+
+- This is an markdown list.
+- Its per default a LTR direction
+{{% rtl %}}
+- هذه القائمة باللغة العربية
+- من اليمين الى اليسار
+{{% /rtl %}}
 
 <br/><br/><br/>
 
