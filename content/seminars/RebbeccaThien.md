@@ -9,7 +9,7 @@ draft: false
 __Title:__ Physical Realizability and Coherent LQG Control of Linear Quantum Systems
 
 
-__Time, Date, Location:__ 11:00, Friday, 7 November, 2023, Brian Anderson Building Seminar Room, and  [Zoom](https://anu.zoom.us/j/86439556262?pwd=M1MvR05Kb25QZlpVU29CcG1XcTFEZz09)
+__Time, Date, Location:__ 11:00, Friday, 17 November, 2023, Brian Anderson Building Seminar Room, and  [Zoom](https://anu.zoom.us/j/86439556262?pwd=M1MvR05Kb25QZlpVU29CcG1XcTFEZz09)
 
 
 __Abstract:__ A linear quantum system is a special class of quantum system whose dynamics are described by the laws of quantum mechanics where quantum mechanics serves as a platform for comprehending and explaining the workings of the universe at the atomic scale. Control problems in the quantum domain are often more challenging compared to their classical counterparts, primarily due to the additional constraints imposed by quantum mechanics. A linear quantum system generally need not correspond to a physically meaningful system unless it satisfies some additional constraints which then a quantum system will be termed as a physically realizable quantum system. One way to implement a linear time-invariant (LTI) system as a physically realizable system is to include additional quantum vacuum noise channels. The presence of quantum vacuum noise channels in the controller places limits on the performance. Hence it is desirable to minimize the number (or effect) of these noises.
