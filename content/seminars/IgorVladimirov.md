@@ -1,12 +1,12 @@
 ---
 title: "Igor Vladimirov's Talk on Position-Momentum Conditioning, Relative Entropy Decomposition  and Convergence to Equilibrium in Stochastic Hamiltonian Systems"
-date: 2023-12-01T11:00:00+10:00
+date: 2024-01-19T11:00:00+10:00
 draft: false
 ---
 __Title:__ Position-Momentum Conditioning, Relative Entropy Decomposition  and Convergence to Equilibrium in Stochastic Hamiltonian Systems
 
 
-__Time, Date, Location:__ 11:00, Friday, 1 December, 2023, Brian Anderson Building Seminar Room 
+__Time, Date, Location:__ 11:00, Friday, 19 January, 2024, Brian Anderson Building Seminar Room 
 
 
 __Abstract:__ This talk is concerned with a class of multivariable stochastic Hamiltonian systems whose generalised position is related by an ordinary differential equation to the momentum governed by an Ito stochastic differential equation. The latter is driven by a standard Wiener process and involves both conservative and viscous damping forces. With the mass, diffusion and damping matrices being position-dependent, the resulting nonlinear model of Langevin dynamics describes dissipative mechanical systems (possibly with rotational degrees of
