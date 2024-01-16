@@ -7,7 +7,7 @@ draft: false
 
 
 
-__Time, Date, Location__: 18:00, Thursday, 18 January, 2024, Brian Anderson Building Seminar Room
+__Time, Date, Location__: 11:00, Thursday, 18 January, 2024, Brian Anderson Building Seminar Room
 
 
 __Title:__ Output Feedback Consensus for Networked Heterogeneous Nonlinear Negative Imaginary Systems with Free Body Motion
