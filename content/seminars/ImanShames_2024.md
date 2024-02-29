@@ -8,7 +8,8 @@ draft: false
 __Title:__ The Attractor of the Replicator Dynamic in Zero-Sum Games
 
 
-__Time, Date, Location__: 11:00, Friday, 1 March, 2024, Ian Ross Building Seminar Room
+__Time, Date, Location__: 11:00, Friday, 1 March, 2024, Room 2.02 Seminar Room,
+Birch Building
 
 __Abstract:__ Abstract: In this work we characterise the long-run behaviour of the
 replicator dynamic in zero-sum games (symmetric or non-symmetric).
