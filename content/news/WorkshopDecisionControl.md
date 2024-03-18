@@ -2,7 +2,7 @@
 title: "Workshop on Decision and Control"
 date: 2024-04-04
 description: "Australian Workshop on Decision and Control"
-tags: ["workshop"]
+draft: false
 ---
 
 __Location:__ Innovation Space, Room 2.04, Level 2, Birch Building, ANU Campus
