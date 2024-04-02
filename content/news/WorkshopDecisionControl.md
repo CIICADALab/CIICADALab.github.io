@@ -52,7 +52,7 @@ Innovation Space, Room 2.04, Level 2, Birch Building, ANU Campus
  |
 | 1430 -- 1500 | Carlos Murguia (QUT) | Privacy in Cloud Computing through Immersion-based Coding  |
 | 1500 -- 1515 | |  Coffee Break |
-| 1515 -- 1545 | Yanan Liu | Measurement and Control design for random-telegraph-noise mitigation by spectator qubits |
+| 1515 -- 1545 | Yanan Liu (Newcastle) | Measurement and Control design for random-telegraph-noise mitigation by spectator qubits |
 | 1545 -- 1615 | Iman Shames (ANU) | Best Response Convergence for Zero-sum Stochastic Dynamic Games with Partial and Asymmetric Information |
 | 1615 -- 1630 | Closing Remarks |   |
 
