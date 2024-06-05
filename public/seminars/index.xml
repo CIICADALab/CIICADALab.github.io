@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CIICADA Lab</title>
+    <link>https://CIICADALab.github.io/seminars/</link>
+    <description>Recent content on CIICADA Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Fri, 07 Jun 2024 11:00:00 +1000</lastBuildDate><atom:link href="https://CIICADALab.github.io/seminars/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brian Anderson&#39;s Talk on Reverse Time Diffusions</title>
+      <link>https://CIICADALab.github.io/seminars/bdoa/</link>
+      <pubDate>Fri, 07 Jun 2024 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/bdoa/</guid>
+      <description>Time, Date, Location: 11:00, Friday, 7 June, 2024, Ian Ross Building Seminar Room
+Title: Reverse Time Diffusions
+Abstract: The concept of reverse time diffusions is introduced, in the first instance by giving concrete examples of simple electrical circuits.</description>
+      
+    </item>
+    
+    <item>
+      <title>Guofeng Zhang&#39;s Optimal Control of Flying Qubit</title>
+      <link>https://CIICADALab.github.io/seminars/guofengzhang/</link>
+      <pubDate>Mon, 13 May 2024 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/guofengzhang/</guid>
+      <description>Title: Optimal Control of Flying Qubits
+Time, Date, Location: 11:00, Monday, 13 May, 2024, Room 2.02 Seminar Room, Birch Building
+Abstract: The transmission of flying qubits carried by itinerant photons is ubiquitous in quantum communication networks.</description>
+      
+    </item>
+    
+    <item>
+      <title>Ziwei Wang&#39;s PhD Oral Presentation on Seeing through Space and Time: Asynchronous Event Processing for Robots</title>
+      <link>https://CIICADALab.github.io/seminars/ziweiwang/</link>
+      <pubDate>Thu, 02 May 2024 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/ziweiwang/</guid>
+      <description>Title: Seeing through Space and Time: Asynchronous Event Processing for Robots
+Time, Date, Location 11:00, Thursday, 02 May 2024, Building 145, Room 1.33 and Zoom
+Abstract: Vision sensors are the eyes of robotic systems, facilitating perception, planning, and interaction with the world.</description>
+      
+    </item>
+    
+    <item>
+      <title>Iman Shames&#39; Talk on Distributed Nonconvex Optimisation Via Modified ADMM</title>
+      <link>https://CIICADALab.github.io/seminars/imanshames2/</link>
+      <pubDate>Fri, 26 Apr 2024 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/imanshames2/</guid>
+      <description>Title: Distributed Nonconvex Optimisation Via Modified ADMM
+Time, Date, Location: 11:00, Friday, 26 April, 2024, Ian Ross Seminar Room
+Abstract: This talk addresses the problem of nonconvex nonsmooth decentralised optimisation in multi-agent networks with undirected connected communication graphs.</description>
+      
+    </item>
+    
+    <item>
+      <title>Weichao Liang&#39;s Talk on Analysis and Control of Open Quantum System</title>
+      <link>https://CIICADALab.github.io/seminars/weichaoliang/</link>
+      <pubDate>Fri, 15 Mar 2024 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/weichaoliang/</guid>
+      <description>Title: Analysis and Control of Open Quantum System
+Time, Date, Location: 11:00, Friday, 15 March, 2024, Room 2.02 Seminar Room, Birch Building
+Abstract: The presentation will begin with an elementary introduction to open quantum systems and quantum filtering theory.</description>
+      
+    </item>
+    
+    <item>
+      <title>Iman Shames&#39; Talk on The Attractor of the Replicator Dynamic in Zero-Sum Games</title>
+      <link>https://CIICADALab.github.io/seminars/imanshames_2024/</link>
+      <pubDate>Fri, 01 Mar 2024 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/imanshames_2024/</guid>
+      <description>Title: The Attractor of the Replicator Dynamic in Zero-Sum Games
+Time, Date, Location: 11:00, Friday, 1 March, 2024, Room 2.02 Seminar Room, Birch Building
+Abstract: Abstract: In this work we characterise the long-run behaviour of the replicator dynamic in zero-sum games (symmetric or non-symmetric).</description>
+      
+    </item>
+    
+    <item>
+      <title>Ahad Zehmakan&#39;s talk on Why Misinformation Spread Fast in Social Networks, and How to Stop It</title>
+      <link>https://CIICADALab.github.io/seminars/ahadzehmakan/</link>
+      <pubDate>Fri, 16 Feb 2024 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/ahadzehmakan/</guid>
+      <description>Time, Date, Location: 11:00, Friday, 16 February, 2024, Ian Ross Building Seminar Room
+Title: Why Misinformation Spread Fast in Social Networks, and How to Stop It
+Abstract: We discuss a misinformation spreading model where individuals are connected via a graph structure, representing a social network.</description>
+      
+    </item>
+    
+    <item>
+      <title>Tarek Hamel&#39;s talk on Deterministic observer design for vision-aided inertial navigation</title>
+      <link>https://CIICADALab.github.io/seminars/tarekhamel/</link>
+      <pubDate>Fri, 19 Jan 2024 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/tarekhamel/</guid>
+      <description>Time, Date, Location: 11:00, Friday, 19 January, 2024, Brian Anderson Building Seminar Room
+Title: Deterministic observer design for vision-aided inertial navigation
+Abstract: This talk aims to report results developed over the last three years for state estimation problems arising with unmanned mobile robots equipped with a monocular camera and a 3-axis gyrometer, complemented with either a velocity sensor, a 3-axis accelerometer, or an optical flow sensor.</description>
+      
+    </item>
+    
+    <item>
+      <title>Kanghong Shi&#39;s Talk on Output Feedback Consensus for Networked Heterogeneous Nonlinear Negative Imaginary Systems with Free Body Motion</title>
+      <link>https://CIICADALab.github.io/seminars/kanghongshi/</link>
+      <pubDate>Thu, 18 Jan 2024 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/kanghongshi/</guid>
+      <description>Time, Date, Location: 11:00, Thursday, 18 January, 2024, Brian Anderson Building Seminar Room
+Title: Output Feedback Consensus for Networked Heterogeneous Nonlinear Negative Imaginary Systems with Free Body Motion
+Abstract: This work provides a protocol to address the robust output feedback consensus problem for networked heterogeneous nonlinear negative imaginary (NI) systems with free body dynamics.</description>
+      
+    </item>
+    
+    <item>
+      <title>Phillippe Phanivong&#39;s talk on Advancements in Tariff Design and Load Optimization for Congestion Management</title>
+      <link>https://CIICADALab.github.io/seminars/phillippephanivong/</link>
+      <pubDate>Fri, 08 Dec 2023 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/phillippephanivong/</guid>
+      <description>Title: Advancements in Tariff Design and Load Optimization for Congestion Management
+Time, Date, Location: 11:00, Friday, 08 December, 2023, Brian Anderson Building Seminar Room
+Abstract: Customers in the US are adopting new energy technologies, incentivized by state and federal electrification programs.</description>
+      
+    </item>
+    
+    <item>
+      <title>Rebbecca Thien&#39;s Talk on Physical Realizability and Coherent LQG Control of Linear Quantum Systems</title>
+      <link>https://CIICADALab.github.io/seminars/rebbeccathien/</link>
+      <pubDate>Fri, 17 Nov 2023 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/rebbeccathien/</guid>
+      <description>Title: Physical Realizability and Coherent LQG Control of Linear Quantum Systems
+Time, Date, Location: 11:00, Friday, 17 November, 2023, Brian Anderson Building Seminar Room, and Zoom
+Abstract: A linear quantum system is a special class of quantum system whose dynamics are described by the laws of quantum mechanics where quantum mechanics serves as a platform for comprehending and explaining the workings of the universe at the atomic scale.</description>
+      
+    </item>
+    
+    <item>
+      <title>Sumeetpal Singh&#39;s Talk on resampling schemes for particle filters with weakly informative observation</title>
+      <link>https://CIICADALab.github.io/seminars/sumeetpalsingh/</link>
+      <pubDate>Fri, 06 Oct 2023 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/sumeetpalsingh/</guid>
+      <description>Title: On resampling schemes for particle filters with weakly informative observation
+Time, Date, Location: 11:00, Friday, 6 October, 2023, Brian Anderson Building Seminar Room
+Abstract: We consider particle filters with weakly informative observations (or potentials&#39;) relative to the latent state dynamics.</description>
+      
+    </item>
+    
+    <item>
+      <title>Huadong Mo&#39;s Talk on Modeling and Operating of Complex Engineering Systems</title>
+      <link>https://CIICADALab.github.io/seminars/huadongmo/</link>
+      <pubDate>Fri, 18 Aug 2023 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/huadongmo/</guid>
+      <description>Title: Modeling and Operating of Complex Engineering Systems
+Time, Date, Location: 11:00, Friday, 18 August, 2023, Brian Anderson Building Seminar Room
+Abstract: In this talk, we will discuss a couple of modeling and operation methods for complex engineering systems from aircraft to power generators to power and energy systems.</description>
+      
+    </item>
+    
+    <item>
+      <title>Yamin Yan Talk on Towards Autonomous Synchronization: Introducing Open Problems in Coordinating Diverse Dynamic Agents</title>
+      <link>https://CIICADALab.github.io/seminars/yaminyan/</link>
+      <pubDate>Fri, 11 Aug 2023 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/yaminyan/</guid>
+      <description>Title: Towards Autonomous Synchronization: Introducing Open Problems in Coordinating Diverse Dynamic Agents
+Time, Date, Location: 11:00, Friday, 11 August, 2023, Brian Anderson Building Seminar Room
+Abstract: This talk focuses on a new synchronization problem for heterogeneous multi-agent systems, called autonomous synchronization.</description>
+      
+    </item>
+    
+    <item>
+      <title>Iman Shames&#39; Talk on Non-uniform Observability for Moving Horizon Estimation and stability with respect to additive perturbation</title>
+      <link>https://CIICADALab.github.io/seminars/imanshames2023/</link>
+      <pubDate>Fri, 30 Jun 2023 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/imanshames2023/</guid>
+      <description>Title: Non-uniform Observability for Moving Horizon Estimation and stability with respect to additive perturbation
+Time, Date, Location: 11:00, Friday, 30 June, 2023, Brian Anderson Building Seminar Room
+Abstract: In this talk we formalise the concepts of weakly and weakly regularly persistent input trajectory as well as their link to the Observability Grammian and the existence and uniqueness of solutions of Moving Horizon Estimation (MHE) problems.</description>
+      
+    </item>
+    
+    <item>
+      <title>Jamie Freestone&#39;s talk on  Philosophy, feedback, and representations</title>
+      <link>https://CIICADALab.github.io/seminars/jamiefreestone/</link>
+      <pubDate>Fri, 02 Jun 2023 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/jamiefreestone/</guid>
+      <description>Title: Philosophy, feedback, and representations
+Time, Date, Location: 11:00, Friday, June 2, 2023, Brian Anderson Seminar Room
+Abstract: Many branches of philosophy, linguistics, and cognitive science have tackled the problem of mental representations: how can one part of the physical world - a brain - be about or represent some other part of the world?</description>
+      
+    </item>
+    
+    <item>
+      <title>Giovanni Sansavini&#39;s Talk on Engineering Energy Networks Facing Global Transition: From Predicting Cascading Failures to Optimizing System Safety</title>
+      <link>https://CIICADALab.github.io/seminars/giovannsansavini/</link>
+      <pubDate>Thu, 01 Jun 2023 10:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/giovannsansavini/</guid>
+      <description>Title: Optimisation and control of distributed energy resources for power and voltage regulation in distribution networks
+Time, Date, Location: 10:00, Thursday, June 1, 2023, Brian Anderson Seminar Room
+Abstract: Aiming at a sustainable energy production and at securing their energy supply, many countries are about to transition from a fossil-dominated to a green energy mix encompassing sunlight, mechanical energy and heat together with fossil and synthetic fuels.</description>
+      
+    </item>
+    
+    <item>
+      <title>Wilhiam de Carvalho&#39;s Talk on Optimisation and control of distributed energy resources for power and voltage regulation in distribution networks</title>
+      <link>https://CIICADALab.github.io/seminars/wilhiamdecarvalho/</link>
+      <pubDate>Fri, 19 May 2023 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/wilhiamdecarvalho/</guid>
+      <description>Title: Optimisation and control of distributed energy resources for power and voltage regulation in distribution networks
+Time, Date, Location: 11:00, Friday, May 19, 2023, Zoom Link
+Abstract: While the adoption of solar power, battery storage and electric vehicles continues to grow worldwide, both technical challenges and opportunities emerge in electricity networks.</description>
+      
+    </item>
+    
+    <item>
+      <title>Shuixin Xiao&#39;s Talk on Quantum detector tomography: analytical algorithm, optimal design and regularization</title>
+      <link>https://CIICADALab.github.io/seminars/shuixinxiao/</link>
+      <pubDate>Fri, 12 May 2023 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/shuixinxiao/</guid>
+      <description>Title: Quantum detector tomography: analytical algorithm, optimal design and regularization
+Time, Date, Location: 11:00, Friday, May 12, 2023, Brian Anderson Building Seminar Room
+Abstract: Quantum detector tomography (QDT) is a fundamental technique used for calibrating quantum devices and performing various quantum engineering tasks.</description>
+      
+    </item>
+    
+    <item>
+      <title>Matthew Hampsey&#39;s Talk on Nonlinear trajectory tracking on homogeneous spaces</title>
+      <link>https://CIICADALab.github.io/seminars/matthewhampsey/</link>
+      <pubDate>Fri, 14 Apr 2023 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/matthewhampsey/</guid>
+      <description>Title: Nonlinear trajectory tracking on homogeneous spaces
+Time, Date, Location: 11:00, Friday, 14 April, 2023, Brian Anderson Building Seminar Room
+Abstract: Accurate tracking of planned trajectories in the presence of perturbations is a fundamental problem in control and robotics.</description>
+      
+    </item>
+    
+    <item>
+      <title>Jen Jen Chung&#39;s Talk on Perception, planning and learning for robot grasping and interaction</title>
+      <link>https://CIICADALab.github.io/seminars/jenjenchung/</link>
+      <pubDate>Fri, 31 Mar 2023 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/jenjenchung/</guid>
+      <description>Title: Perception, planning and learning for robot grasping and interaction
+Time, Date, Location: 11:00, Friday, 31 March, 2023, Brian Anderson Building Seminar Room
+Abstract: The tremendous potential offered by robotic automation has been evidenced by its revolution of large scale manufacturing, mining, and agriculture.</description>
+      
+    </item>
+    
+    <item>
+      <title>Sofia McLeod&#39;s Talk on Globally Optimal Event-Based Divergence Estimation for Ventral Landing</title>
+      <link>https://CIICADALab.github.io/seminars/sofiamcleod/</link>
+      <pubDate>Thu, 23 Mar 2023 14:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/sofiamcleod/</guid>
+      <description>Title: Globally Optimal Event-Based Divergence Estimation for Ventral Landing
+Time, Date, Location: 14:00, Thursday, 23 March, 2023, Brian Anderson Building Seminar Room
+Abstract: Event sensing is a major component in bio-inspired flight guidance and control systems.</description>
+      
+    </item>
+    
+    <item>
+      <title>Iman Shames&#39; Talk on Games as Graphs</title>
+      <link>https://CIICADALab.github.io/seminars/imanshames/</link>
+      <pubDate>Fri, 17 Feb 2023 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/imanshames/</guid>
+      <description>Title: Games as Graphs
+Time, Date, Location: 11:00, Friday, 17 February, 2023, Brian Anderson Building Seminar Room
+Abstract: In this talk we re-examine the utility foundations of game theory. We present a simple and intuitive model of a game defined precisely by each player&amp;rsquo;s preference orders of their strategies, given the strategies of the other players.</description>
+      
+    </item>
+    
+    <item>
+      <title>Shawn Ge&#39;s Talk on Equivariant Observer Design for Discrete-time Systems</title>
+      <link>https://CIICADALab.github.io/seminars/shawnge/</link>
+      <pubDate>Fri, 10 Feb 2023 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/shawnge/</guid>
+      <description>Title: Equivariant Observer Design for Discrete-time Systems
+Time, Date, Location: 11:00, Friday, 10 February, 2023, Brian Anderson Building Seminar Room
+Abstract: State observer design for nonlinear systems is a key field in control theories.</description>
+      
+    </item>
+    
+    <item>
+      <title>Yitian Chen&#39;s Talk on Regret Analysis of Online LQR Control via Trajectory Prediction and Tracking</title>
+      <link>https://CIICADALab.github.io/seminars/yitianchen/</link>
+      <pubDate>Fri, 03 Feb 2023 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/yitianchen/</guid>
+      <description>Title: Regret Analysis of Online LQR Control via Trajectory Prediction and Tracking
+Time, Date, Location: 11:00, Friday, 3 February, 2022, Brian Anderson Building Seminar Room
+Abstract: In this paper, we propose and analyse a new method for online linear quadratic regulator (LQR) control with a priori unknown time-varying cost matrices.</description>
+      
+    </item>
+    
+    <item>
+      <title>Hyungbo Shim&#39;s Talk on Analysis and Synthesis of Heterogeneous Multi-agent System via Blended Dynamics Approach</title>
+      <link>https://CIICADALab.github.io/seminars/hyungboshim/</link>
+      <pubDate>Fri, 03 Feb 2023 10:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/hyungboshim/</guid>
+      <description>Title: Analysis and Synthesis of Heterogeneous Multi-agent System via Blended Dynamics Approach
+Time, Date, Location: 10:00, Friday, 3 February, 2023, Brian Anderson Building Seminar Room
+Abstract: This talk emphasizes that a group of heterogeneous multi-agent dynamics exhibits an emergence of new behavior when some parts of the dynamics are enforced to synchronize, and the new behavior can be represented by the so-called blended dynamics.</description>
+      
+    </item>
+    
+    <item>
+      <title>Vincent Liu&#39;s talk on An Introduction to Max-Plus Algebra and its Application to Optimal Control Problems</title>
+      <link>https://CIICADALab.github.io/seminars/vincentliu/</link>
+      <pubDate>Fri, 13 Jan 2023 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/vincentliu/</guid>
+      <description>Title: An Introduction to Max-Plus Algebra and its Application to Optimal Control Problems
+Time, Date, Location: 11:00, Friday, 13 January, 2023, Brian Anderson Building Seminar Room
+Abstract: Control, estimation, and system identification of nonlinear systems continues to be a challenging problem owing to a lack of structure imposed by most problem settings.</description>
+      
+    </item>
+    
+    <item>
+      <title>Manuel Schallar&#39;s talk on Structure-exploiting optimal control of port-Hamiltonian systems and Karl Worthmann&#39;s talk on Model predictive control for systems with null-controllable homogeneous approximation</title>
+      <link>https://CIICADALab.github.io/seminars/manuelschllarkarlworthmann/</link>
+      <pubDate>Mon, 09 Jan 2023 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/manuelschllarkarlworthmann/</guid>
+      <description>We have a double-bill.
+Time, Date, Location: 11:00, Friday, 9 January, 2023, Brian Anderson Building Seminar Room
+The details are given below.
+Title: Structure-exploiting optimal control of port-Hamiltonian systems
+Abstract: We consider optimal control of port-Hamiltonian systems by minimizing the energy supplied via the ports.</description>
+      
+    </item>
+    
+    <item>
+      <title>Jochen Trumpf&#39;s talk on A Non-Linear Internal Model Principle for Observers</title>
+      <link>https://CIICADALab.github.io/seminars/jochentrumpf/</link>
+      <pubDate>Fri, 16 Dec 2022 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/jochentrumpf/</guid>
+      <description>Title: A Non-Linear Internal Model Principle for Observers
+Time, Date, Location: 11:00, Friday, 16 December, 2022, Brian Anderson Building Seminar Room
+Abstract: We show that any asymptotic observer for a non-linear kinematic system on a differentiable manifold contains a full internal model of the plant.</description>
+      
+    </item>
+    
+    <item>
+      <title>Pieter van Goor&#39;s Talk on Constructive Equivariant Observer Design for Inertial Velocity-Aided Attitude and Matthew Hampsey&#39;s Talk on Exploiting Symmetries for Trajectory Tracking Control</title>
+      <link>https://CIICADALab.github.io/seminars/mh_pvg/</link>
+      <pubDate>Fri, 09 Dec 2022 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/mh_pvg/</guid>
+      <description>We have a double-bill.
+Time, Date, Location: 11:00, Friday, 9 December, 2022, Brian Anderson Building Seminar Room
+The details are given below.
+Title: Constructive Equivariant Observer Design for Inertial Velocity-Aided Attitude by Pieter van Goor</description>
+      
+    </item>
+    
+    <item>
+      <title>CSIRO&#39;s Robotics and Autonomous Systems Group&#39;s SubT and Beyond: Experiences at the DARPA Subterranean Challenge and Putting Robots to Work</title>
+      <link>https://CIICADALab.github.io/seminars/csiro/</link>
+      <pubDate>Wed, 07 Dec 2022 15:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/csiro/</guid>
+      <description>Title: SubT and Beyond: Experiences at the DARPA Subterranean Challenge and Putting Robots to Work
+Time, Date, Location: 15:00, Wednesday, 7 December, 2022, Brian Anderson Building Seminar Room
+Abstract: he DARPA SubT Challenge concluded in September 2021, Team CSIRO Data61 placed second, securing 1 million USD for Australian robotics.</description>
+      
+    </item>
+    
+    <item>
+      <title>Rijad Alisic&#39;s Talk on How Privacy Can Improve Security Against Data-Driven Attackers</title>
+      <link>https://CIICADALab.github.io/seminars/rijadalisic/</link>
+      <pubDate>Fri, 18 Nov 2022 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/rijadalisic/</guid>
+      <description>Title: How Privacy Can Improve Security Against Data-Driven Attackers
+Time, Date, Location: 11:00, Friday, 18 November, 2022, Brian Anderson Building Seminar Room
+Abstract: In this talk, we will discuss methods that can be used as a first line of defence from data-driven attacks on Cyber-Physical Systems (CPS).</description>
+      
+    </item>
+    
+    <item>
+      <title>Erik Weyer&#39;s Talk on State conditional filtering</title>
+      <link>https://CIICADALab.github.io/seminars/erikweyer/</link>
+      <pubDate>Fri, 11 Nov 2022 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/erikweyer/</guid>
+      <description>Title: State conditional filtering
+Time, Date, Location: 11:00, Friday 11 November, 2022, Brian Anderson Building Seminar Room
+Abstract: The Kalman Filter is a well-known method for estimating the state vector of a linear dynamical system.</description>
+      
+    </item>
+    
+    <item>
+      <title>Yuen-Man (Mandy) Pun&#39;s Talk on Error Bound for Target Tracking Based on Time-of-Arrival Measurements</title>
+      <link>https://CIICADALab.github.io/seminars/mandypun/</link>
+      <pubDate>Fri, 28 Oct 2022 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/mandypun/</guid>
+      <description>Title: Error Bound for Target Tracking Based on Time-of-Arrival Measurements
+Time, Date, Location: 11:00, Friday, 28 October, 2022, Brian Anderson Building Seminar Room
+Abstract: Target tracking is a key enabling technology in many applications of multi-agent systems and wireless sensor networks, such as motion planning and surveillance.</description>
+      
+    </item>
+    
+    <item>
+      <title>Elena Petri&#39;s Talk on Hybrid techniques for state estimation: event-triggered observer design and observer performance improvement</title>
+      <link>https://CIICADALab.github.io/seminars/elenapetri/</link>
+      <pubDate>Fri, 21 Oct 2022 11:00:00 +1000</pubDate>
+      
+      <guid>https://CIICADALab.github.io/seminars/elenapetri/</guid>
+      <description>Title: Hybrid techniques for state estimation: event-triggered observer design and observer performance improvement
+Time, Date, Location: 11:00, Friday, 21 October, 2022, Brian Anderson Building Seminar Room
+Abstract: While hybrid techniques have demonstrated their relevance and strength in a range of control problems, they have been much less exploited in the context of estimation.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

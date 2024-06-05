@@ -1,5 +1,5 @@
 ---
-title: "Brian Anderson's Talk on Reverse Time Diffusions''
+title: "Brian Anderson's Talk on Reverse Time Diffusions"
 date: 2024-06-07T11:00:00+10:00
 draft: false
 ---
